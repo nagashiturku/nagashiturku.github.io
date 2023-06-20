@@ -13,4 +13,4 @@ Finalistit valitaan kauden aikana vähintään 10 peliä pelanneista seuraavilla
 3. Jäljellä olevista eniten uma-pisteitä kerännyt
 4. Hallituksen valitsema villi kortti
 
-Kuluvan kauden tulokset löydät [täältä](/tilasto).
+Kuluvan kauden tulokset löydät [täältä](/tilasto/).
