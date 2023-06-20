@@ -6,16 +6,6 @@ published: true
 ---
 *Päivitetty 19.6.2023*
 
-Vuoden 2023 liigan pistetilanne on seuraava: 
+[Vuoden 2023 liigan pistetilanne on tämä](https://docs.google.com/spreadsheets/d/1zxV7QqzqXrQr77YUB37c-gnBWg9wSHVnGR6VByUGY2k/edit?usp=sharing) 
 <!--- Tähän tulee pisteet, voi käyttää Markdown-taulukkoa.-->
-<table>
-| 2023     | Johan  | Natnael | Eero   | Marko   | Robin   | Ari     | Elle     | Antti   | Haikkari | Johannes | Toni   | Tuukka  | Aaron   | Tiina   | Onni    | Jesse  | Aleksi F | Dilruba | Jope   |
-|----------|--------|---------|--------|---------|---------|---------|----------|---------|----------|----------|--------|---------|---------|---------|---------|--------|----------|---------|--------|
-| Pelejä   | 9      | 13      | 40     | 35      | 41      | 33      | 24       | 3       | 6        | 17       | 1      | 2       | 1       | 6       | 10      | 4      | 1        | 3       | 3      |
-|          |        |         |        |         |         |         |          |         |          |          |        |         |         |         |         |        |          |         |        |
-| Pisteet  | 33 000 | 27 500  | −3 500 | −26 500 | 200 200 | 139 100 | −151 000 | −21 900 | −11 200  | −142 000 | 14 800 | −32 500 | −14 900 | −43 200 | −32 600 | 15 500 | 7 000    | −12 900 | 15 100 |
-| Sijoitus | 0      | 3       | 4      | 5       | 1       | 2       | 8        | 0       | 0        | 7        | 0      | 0       | 0       | 0       | 6       | 0      | 0        | 0       | 0      |
-|          |        |         |        |         |         |         |          |         |          |          |        |         |         |         |         |        |          |         |        |
-| Uma      | 7      | −1      | −13    | −1      | 48      | 15      | −20      | −3      | −8       | −17      | 3      | −2      | −1      | 0       | −11     | 3      | 0        | −4      | 2      |
-| Sijoitus | 0      | 3       | 6      | 3       | 1       | 2       | 8        | 0       | 0        | 7        | 0      | 0       | 0       | 0       | 5       | 0      | 0        | 0       | 0      |
-</table>
+
