@@ -8,6 +8,7 @@ published: true
 
 Vuoden 2023 liigan pistetilanne on seuraava: 
 <!--- Tähän tulee pisteet, voi käyttää Markdown-taulukkoa.-->
+<table>
 | 2023     | Johan  | Natnael | Eero   | Marko   | Robin   | Ari     | Elle     | Antti   | Haikkari | Johannes | Toni   | Tuukka  | Aaron   | Tiina   | Onni    | Jesse  | Aleksi F | Dilruba | Jope   |
 |----------|--------|---------|--------|---------|---------|---------|----------|---------|----------|----------|--------|---------|---------|---------|---------|--------|----------|---------|--------|
 | Pelejä   | 9      | 13      | 40     | 35      | 41      | 33      | 24       | 3       | 6        | 17       | 1      | 2       | 1       | 6       | 10      | 4      | 1        | 3       | 3      |
@@ -17,3 +18,4 @@ Vuoden 2023 liigan pistetilanne on seuraava:
 |          |        |         |        |         |         |         |          |         |          |          |        |         |         |         |         |        |          |         |        |
 | Uma      | 7      | −1      | −13    | −1      | 48      | 15      | −20      | −3      | −8       | −17      | 3      | −2      | −1      | 0       | −11     | 3      | 0        | −4      | 2      |
 | Sijoitus | 0      | 3       | 6      | 3       | 1       | 2       | 8        | 0       | 0        | 7        | 0      | 0       | 0       | 0       | 5       | 0      | 0        | 0       | 0      |
+</table>
