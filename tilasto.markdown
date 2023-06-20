@@ -2,7 +2,7 @@
 layout: page
 title: Tilasto
 permalink: /tilasto/
-published: false
+published: true
 ---
 *Päivitetty 19.6.2023*
 
