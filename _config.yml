@@ -22,8 +22,8 @@ title: Nagashi 流し
 description: >- # this means to ignore newlines until "baseurl:"
   Turun riichi-mahjong-seura Nagashi ry
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: nagashiturku.github.io
-url: "https://nagashiturku.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: www.nagashi.fi
+url: "https://www.nagashi.fi" # the base hostname & protocol for your site, e.g. http://example.com
 locale: fi_FI
 social:
   name: Nagashi Turku
