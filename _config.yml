@@ -20,7 +20,7 @@
 
 title: Nagashi 流し
 description: >- # this means to ignore newlines until "baseurl:"
-  Turun riichi-mahjong-seura Nagashi ry
+  Turun riichi-mahjong-seura Nagashi ry — Riichi mahjong club in Turku — トゥルクの麻雀クラブ
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: www.nagashi.fi
 url: "https://www.nagashi.fi" # the base hostname & protocol for your site, e.g. http://example.com
