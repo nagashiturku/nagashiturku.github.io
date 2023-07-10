@@ -4,10 +4,8 @@ title: Yhdistys
 permalink: /yhdistys/
 ---
 
-Yhdistyksen virallinen nimi on Turun riichi-mahjong-seura Nagashi ry ja kotipaikka on Turku.
-
 Meidät saa parhaiten kiinni [Discord-palvelimeltamme](https://discord.gg/qNFfPMBazq).
-
+Voit myös laittaa meille sähköpostia osoitteeseen nagashi.hallitus [at] gmail [piste] com
 # Yhdistyksen säännöt
 ## 1. Yhdistyksen nimi ja kotipaikka
 Yhdistyksen nimi on Turun riichi-mahjong-seura Nagashi ry ja sen kotipaikka on Turku
