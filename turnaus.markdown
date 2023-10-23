@@ -4,7 +4,7 @@ title: Turnaus
 permalink: /turnaus/
 ---
 
-### Turun Riichi-mahjong seura Nagashi ry järjestää ensimmäisen turnauksensa "Under the River 2024" tammikuussa 13.1. - 14.1. Turku-salissa
+**Turun Riichi-mahjong seura Nagashi ry järjestää ensimmäisen turnauksensa "Under the River 2024" tammikuussa 13.1. - 14.1. Turku-salissa**
 
 Turnauksessa pelataan kahdeksan hanchania kahden päivän aikana. 
 Jokaisen hanchanin aikaraja on 90 minuuttia.
