@@ -5,8 +5,9 @@ permalink: /turnaus/
 ---
 ## Under the River 2024  
 **Turun Riichi-mahjong seura Nagashi ry järjestää ensimmäisen turnauksensa   
-"Under the River 2024" tammikuussa 13.1. - 14.1. Turku-salissa**
+"Under the River 2024" tammikuussa 13.1. - 14.1. Turku-salissa**  
 *In English below*  
+  
 Turnauksessa pelataan kahdeksan hanchania kahden päivän aikana. 
 Jokaisen hanchanin aikaraja on 90 minuuttia.
 Turnaus pelataan EMA-sääntöjä käyttäen ja lopputilastot vaikuttavat Suomen laajuisiin MFRS-sijoituksiin.
@@ -62,7 +63,7 @@ Tervetuloa!
 ---------------------  
 
 **Turku Riichi-mahjong club Nagashi ry will organize its first tournament "Under the River 2024" on 13-14.1. in Turku-sali.
-During the two days eight hachans will be played.**
+During the two days eight hachans will be played.**  
 The time limit for each hanchan is 90 minutes.
 The tournament is played using EMA rules and the results will  affect the National MFRS rankings.
 You can find the latest EMA rules (April 1, 2016) [here](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf).
@@ -74,19 +75,20 @@ The tournament fee is €15 for Nagashi ry members and €20 for non-members. Yo
 The tournament and the membership fee can be paid by bank transfer or in cash at the beginning of the event.
 Tournament fees paid by bank transfer must be completed by January 7, 2024. Otherwise, you must be able to show a receipt for the bank transfer on the spot.
 ## Registration
-Registration is now open and the registration period ends on January 7, 2024.
-There are places in the tournament for a total of 32 players.
-Tournament registration form: [here](https://docs.google.com/forms/d/e/1FAIpQLSeNadRbv5UL47vcq8WRzoVo9Ia_Bke3-SsLHrAqfpGn3EMJ0Q/viewform?usp=share_link)
+Registration is now open and the registration period ends on January 7, 2024.  
+There are places in the tournament for a total of 32 players.  
+Tournament registration form: [here](https://docs.google.com/forms/d/e/1FAIpQLSeNadRbv5UL47vcq8WRzoVo9Ia_Bke3-SsLHrAqfpGn3EMJ0Q/viewform?usp=share_link)  
 Nagashi ry membership form: [here](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)
 
 **Payment information:**
-Turku Riichi-Mahjong-seura Nagashi ry
-SBANFIHH (S-Bank)
-Nagashi Association / FI54 3939 0037 8833 78
+Turku Riichi-Mahjong-seura Nagashi ry  
+SBANFIHH (S-Bank)  
+Nagashi Association / FI54 3939 0037 8833 78  
 For message: "Under the River, [own name]"
 
 ## Meals + accommodation
-Tournament venue is located near the center of Turku and the Kupittaa train station in the center of the university campus, so bus connections are good, and there are a good number of different accommodation options in the area (e.g. Omena hotel, Hese hotel). There is a student restaurant Assarin Ullakko and Hesburger close by, which can be visited during the lunch and dinner breaks.
+Tournament venue is located near the center of Turku and the Kupittaa train station in the center of the university campus, so bus connections are good, and there are a good number of different accommodation options in the area (e.g. Omena hotel, Hese hotel).  
+There is a student restaurant Assarin Ullakko and Hesburger close by, which can be visited during the lunch and dinner breaks.  
 For Saturday evening, a cabinet has been reserved for the participants in the restaurant Proffan Kellari, where you can spend the evening, get to know other participants or just hang out. The restaurant serves alcohol and is located right next to the Tournament Venue.
 
 ## Schedule
