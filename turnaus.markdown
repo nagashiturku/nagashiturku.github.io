@@ -23,7 +23,7 @@ Tilisiirrolla maksetut turnausmaksut tulee olla suoritettuna 7.1.2024 mennessä.
 ## Ilmoittautuminen
 Ilmoittautuminen on nyt avoinna ja ilmoittautumisaika päättyy 7.1.2024.
 Paikkoja turnauksessa on yhteensä 32:lle pelaajalle.
-Turnauksen ilmoittautumislomake: [tästä linkistä](https://docs.google.com/forms/d/e/1FAIpQLSeNadRbv5UL47vcq8WRzoVo9Ia_Bke3-SsLHrAqfpGn3EMJ0Q/viewform?usp=share_link)
+Turnauksen ilmoittautumislomake: [tästä linkistä](https://docs.google.com/forms/d/e/1FAIpQLSeNadRbv5UL47vcq8WRzoVo9Ia_Bke3-SsLHrAqfpGn3EMJ0Q/viewform?usp=share_link)  
 Nagashi ry jäsenlomake: [tästä linkistä](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)
 
 **Maksutiedot:**  
