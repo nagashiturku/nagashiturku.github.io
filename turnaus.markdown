@@ -4,6 +4,7 @@ title: Turnaus
 permalink: /turnaus/
 ---
 ## Under the River 2024  
+Ilmoittautuneita / Registrees: 11/32  
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää ensimmäisen turnauksensa   
