@@ -4,7 +4,23 @@ title: Turnaus
 permalink: /turnaus/
 ---
 ## Under the River 2024  
-Ilmoittautuneita / Registrees: 13/32  
+Ilmoittautuneita / Registrees:  
+Ukko  
+Joni	Ilkka  
+Aleksi	Fagerroth  
+Lassi	Lähteenmäki  
+Eero	Pihkala  
+Vilhelmiina	Viinikka  
+Aaron	Lounaja  
+Cecilia	Uppgård  
+Tommi	Ikonen   
+Kristiina 	Kuusela   
+Johannes	Natunen  
+Eveliina	Hautalahti  
+Joonas	Helava  
+Anne-Mari 	Haapsamo  
+Yhteensä / Total: 13/32  
+  
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää ensimmäisen turnauksensa   
