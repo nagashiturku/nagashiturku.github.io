@@ -19,6 +19,7 @@ Johannes	Natunen
 Eveliina	Hautalahti  
 Joonas	Helava  
 Anne-Mari 	Haapsamo  
+  
 Yhteensä / Total: 13/32  
   
 *In English below*  
