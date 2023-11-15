@@ -20,7 +20,7 @@ Eveliina	Hautalahti
 Joonas	Helava  
 Anne-Mari 	Haapsamo  
   
-Yhteensä / Total: 13/32  
+Yhteensä / Total: 13/32  Päivitetty viimeksi 15.11.
   
 *In English below*  
   
