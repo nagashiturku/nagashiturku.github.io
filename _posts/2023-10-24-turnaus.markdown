@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Turnaus/Tournament: Under the River 2024"
+date:   2023-10-24 16:00:00 +0300
+categories: turnaus tournament mahjong under river 2024
+author: Nagashi
+---
+Turun Riichi-mahjong seura Nagashi ry järjestää ensimmäisen turnauksensa “Under the River 2024” tammikuussa 13.1. - 14.1. Turku-salissa.
+Lisää tietoa ja ilmoittautumisohjeet löytyy [turnaus-sivulta]({% link turnaus.markdown % }).
+
+Turku Riichi-mahjong club Nagashi ry will organize its first tournament “Under the River 2024” on 13-14.1. in Turku-sali.
+More information, including registration forms, can be found on the [tournament page]({% link turnaus.markdown % }).
