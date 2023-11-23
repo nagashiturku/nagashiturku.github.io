@@ -19,9 +19,10 @@ Johannes	Natunen
 Eveliina	Hautalahti  
 Joonas	Helava  
 Anne-Mari 	Haapsamo  
-Henri 	Haapsamo   
+Henri 	Haapsamo  
+Konsta Lensu  
   
-Yhteensä / Total: 15/32  Päivitetty viimeksi 16.11.
+Yhteensä / Total: 16/32  Päivitetty viimeksi 23.11.
   
 *In English below*  
   
