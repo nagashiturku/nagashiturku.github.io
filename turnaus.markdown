@@ -21,8 +21,11 @@ Joonas	Helava
 Anne-Mari 	Haapsamo  
 Henri 	Haapsamo  
 Konsta Lensu  
+Aleksi	Vehmasaho  
+Johan	Kopra  
+Jouni	Kuitunen  
   
-Yhteensä / Total: 16/32  Päivitetty viimeksi 23.11.
+Yhteensä / Total: 19/32  Päivitetty viimeksi 28.11.
   
 *In English below*  
   
