@@ -24,8 +24,9 @@ Konsta Lensu
 Aleksi	Vehmasaho  
 Johan	Kopra  
 Jouni	Kuitunen  
+Henri Mäkelä  
   
-Yhteensä / Total: 19/32  Päivitetty viimeksi 28.11.
+Yhteensä / Total: 20/32  Päivitetty viimeksi 6.12.
   
 *In English below*  
   
