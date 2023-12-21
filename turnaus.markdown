@@ -25,8 +25,11 @@ Aleksi	Vehmasaho
 Johan	Kopra  
 Jouni	Kuitunen  
 Henri Mäkelä  
+Hannaliina	Paavoseppä   
+Ari	Nalle  
+Antti	Taivalsaari  
   
-Yhteensä / Total: 20/32  Päivitetty viimeksi 6.12.
+Yhteensä / Total: 23/32  Päivitetty viimeksi 21.12.
   
 *In English below*  
   
