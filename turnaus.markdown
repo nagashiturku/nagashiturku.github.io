@@ -28,8 +28,9 @@ Henri Mäkelä
 Hannaliina	Paavoseppä   
 Ari	Nalle  
 Antti	Taivalsaari  
+Tuukka	Aro  
   
-Yhteensä / Total: 23/32  Päivitetty viimeksi 21.12.
+Yhteensä / Total: 24/32  Päivitetty viimeksi 27.12.
   
 *In English below*  
   
