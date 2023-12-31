@@ -30,7 +30,7 @@ Ari	Nalle
 Antti	Taivalsaari  
 Tuukka	Aro  
   
-Yhteensä / Total: 24/32  Päivitetty viimeksi 27.12.
+Yhteensä / Total: 24/32  Päivitetty viimeksi 31.12.
   
 *In English below*  
   
