@@ -29,8 +29,12 @@ Hannaliina	Paavoseppä
 Ari	Nalle  
 Antti	Taivalsaari  
 Tuukka	Aro  
+Petteri Huuskonen  
+Onni	Rumpunen  
+Kukka	Korsu  
+Robin	Nyman   
   
-Yhteensä / Total: 24/32  Päivitetty viimeksi 31.12.
+Yhteensä / Total: 28/32  Päivitetty viimeksi 3.1.
   
 *In English below*  
   
