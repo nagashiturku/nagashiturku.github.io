@@ -33,9 +33,11 @@ Petteri Huuskonen
 Onni	Rumpunen  
 Kukka	Korsu  
 Robin	Nyman   
-Toni Kangasoja
+Toni Kangasoja  
+Elle Fellman  
+Jouni Lehtinen  
   
-Yhteensä / Total: 29/32  Päivitetty viimeksi 4.1.
+Yhteensä / Total: 31/32  Päivitetty viimeksi 4.1. klo 20.00
   
 *In English below*  
   
