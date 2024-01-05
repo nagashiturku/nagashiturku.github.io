@@ -38,7 +38,7 @@ Elle Fellman
 Jouni Lehtinen  
 Jesper Räisänen  
   
-Yhteensä / Total: 32/32  Päivitetty viimeksi 5.1. klo 16.30
+Yhteensä / Total: 32/32  Päivitetty viimeksi 5.1. klo 16.30  
 Turnaus on täynnä! Loput ilmoittautumiset otetaan varasijalle.  
   
 *In English below*  
