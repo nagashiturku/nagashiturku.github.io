@@ -39,7 +39,7 @@ Jouni Lehtinen
 Jesper Räisänen  
   
 Yhteensä / Total: 32/32  Päivitetty viimeksi 5.1. klo 16.30  
-Turnaus on täynnä! Loput ilmoittautumiset otetaan varasijalle.  
+Turnaus on täynnä ja ilmoittautuminen sulkeutunut. Nähdään lauantaina!
   
 *In English below*  
   
@@ -58,7 +58,7 @@ Turnausmaksu on 15€ Nagashi ry:n jäsenille ja 20€ ei-jäsenille. Nagashin j
 Turnausmaksun ja jäsenmaksun voit maksaa tilisiirtona Nagashin pankkitilille tai paikan päällä käteisenä.
 Tilisiirrolla maksetut turnausmaksut tulee olla suoritettuna 7.1.2024 mennessä. Muussa tapauksessa tilisiirrosta on pystyttävä näyttämään tosite paikan päällä.
 ## Ilmoittautuminen
-Ilmoittautuminen on nyt avoinna ja ilmoittautumisaika päättyy 7.1.2024.  
+Ilmoittautumisaika on päättynyt 7.1.2024.  
 Paikkoja turnauksessa on yhteensä 32:lle pelaajalle.  
 Turnauksen ilmoittautumislomake: [tästä linkistä](https://docs.google.com/forms/d/e/1FAIpQLSeNadRbv5UL47vcq8WRzoVo9Ia_Bke3-SsLHrAqfpGn3EMJ0Q/viewform?usp=share_link)  
 Nagashi ry jäsenlomake: [tästä linkistä](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)
@@ -113,8 +113,7 @@ The tournament fee is €15 for Nagashi ry members and €20 for non-members. Yo
 The tournament and the membership fee can be paid by bank transfer or in cash at the beginning of the event.
 Tournament fees paid by bank transfer must be completed by January 7, 2024. Otherwise, you must be able to show a receipt for the bank transfer on the spot.
 ## Registration
-Registration is now open and the registration period ends on January 7, 2024.  
-There are places in the tournament for a total of 32 players.  
+Registration ended on January 7, 2024.   
 Tournament registration form: [here](https://docs.google.com/forms/d/e/1FAIpQLSeNadRbv5UL47vcq8WRzoVo9Ia_Bke3-SsLHrAqfpGn3EMJ0Q/viewform?usp=share_link)  
 Nagashi ry membership form: [here](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)
 
