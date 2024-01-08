@@ -5,7 +5,7 @@ permalink: /turnaus/
 ---
 ## Under the River 2024  
 Ilmoittautuneita / Registrees:  
-Ukko  
+Axel Wilamo  
 Joni	Ilkka  
 Aleksi	Fagerroth  
 Lassi	Lähteenmäki  
