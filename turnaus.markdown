@@ -102,7 +102,7 @@ Tervetuloa!
 ## Under the River 2024
 **Turku Riichi-mahjong club Nagashi ry will organize its first tournament "Under the River 2024" on 13-14.1. in Turku-sali.
 During the two days eight hachans will be played.**  
-The time limit for each hanchan is 90 minutes.
+The time limit for each hanchan is 75 minutes.
 The tournament is played using EMA rules and the results will  affect the National MFRS rankings.
 You can find the latest EMA rules (April 1, 2016) [here](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf).
 
