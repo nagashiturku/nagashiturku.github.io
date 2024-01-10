@@ -47,7 +47,7 @@ Turnaus on täynnä ja ilmoittautuminen sulkeutunut. Nähdään lauantaina!
 "Under the River 2024" tammikuussa 13.1. - 14.1. Turku-salissa**  
   
 Turnauksessa pelataan kahdeksan hanchania kahden päivän aikana. 
-Jokaisen hanchanin aikaraja on 90 minuuttia.
+Jokaisen hanchanin aikaraja on 75 minuuttia.
 Turnaus pelataan EMA-sääntöjä käyttäen ja lopputilastot vaikuttavat Suomen laajuisiin MFRS-sijoituksiin.
 Uusimmat EMA-säännöt (1.4.2016) löydät [täältä](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf).
 
