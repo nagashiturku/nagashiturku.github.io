@@ -72,7 +72,7 @@ Viestiksi: "Under the River, [oma nimi]"
 ## Ruokailu + majoitus
 Pelipaikka sijaitsee Turun keskustan ja Kupittaan rautatieaseman läheisyydessä yliopiston kampuksen keskiössä, joten linja-autoyhteydet ovat hyvät, sekä alueella on hyvä määrä eri majoitusvaihtoehtoja (esim. Omena-hotelli, Hese-hotelli.)   
 Ihan pelipaikan vieressä on myös mm. opiskelijaravintola Assarin Ullakko sekä Hesburger, joissa voi käydä ruokatauon aikana.  
-Lauantai-illaksi osallistujia varten on varattu ravintola Proffan Kellarista kabinetti, jossa voit viettää iltaa, tutustua muihin kävijöihin tai hengailla muuten vaan. Ravintolassa on A-oikeudet ja se sijaitsee aivan pelipaikan vieressä.
+Lauantai-iltaa voi viettää osallistujien kanssa ravintola Proffan Kellarissa. Ravintolassa on A-oikeudet ja se sijaitsee aivan pelipaikan vieressä.
 
 
 ## Aikataulu
@@ -126,7 +126,7 @@ For message: "Under the River, [own name]"
 ## Meals + accommodation
 Tournament venue is located near the center of Turku and the Kupittaa train station in the center of the university campus, so bus connections are good, and there are a good number of different accommodation options in the area (e.g. Omena hotel, Hese hotel).  
 There is a student restaurant Assarin Ullakko and Hesburger close by, which can be visited during the lunch and dinner breaks.  
-For Saturday evening, a cabinet has been reserved for the participants in the restaurant Proffan Kellari, where you can spend the evening, get to know other participants or just hang out. The restaurant serves alcohol and is located right next to the Tournament Venue.
+For Saturday evening, participants can spend the evening in the restaurant Proffan Kellari. The restaurant serves alcohol and is located right next to the Tournament Venue.
 
 ## Schedule
 **Saturday 13.1.**
