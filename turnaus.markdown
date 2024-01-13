@@ -81,9 +81,9 @@ Lauantai-iltaa voi viettää osallistujien kanssa ravintola Proffan Kellarissa. 
 11.30 - 12.00 Ilmoittautuminen  
 12.00 - 13.30 1. hanchan  
 13.45 - 15.15 2. hanchan  
-15.15 - 16.00 tauko  
-16.00 - 17.30 3. hanchan  
-17.45 - 19.15 4. hanchan  
+15.15 - 16.10 tauko  
+16.10 - 17.40 3. hanchan  
+17.55 - 19.25 4. hanchan  
   
 **Sunnuntai 14.1.**  
   
