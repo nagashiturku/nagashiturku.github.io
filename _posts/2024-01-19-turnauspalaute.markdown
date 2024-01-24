@@ -7,4 +7,4 @@ author: nagashi
 ---
 #Kiitos osallistumisesta ensimmäiseen Under the River -turnaukseen!  
 Otamme mielellämme palautetta vastaan.  
-##[Täytä palautekysely](https://forms.gle/grsYp27MX6nb1s6j7)  
+## [Täytä palautekysely](https://forms.gle/grsYp27MX6nb1s6j7)  
