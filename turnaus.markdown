@@ -48,7 +48,7 @@ Lauantai-iltaa voi viettää osallistujien kanssa ravintola Proffan Kellarissa. 
 13.45 - 15.15 2. hanchan  
 15.15 - 16.15 tauko  
 16.15 - 17.45 3. hanchan  
-17.45 - 19.15 4. hanchan  
+18.00 - 19.30 4. hanchan  
   
 **Sunnuntai 13.10.**  
   
@@ -57,8 +57,8 @@ Lauantai-iltaa voi viettää osallistujien kanssa ravintola Proffan Kellarissa. 
 12.45 - 14.15 6. hanchan  
 14.15 - 15.15 tauko  
 15.15 - 16.45 7. hanchan  
-16.45 - 18.15 8. hanchan  
-18.15 Palkintojenjako  
+17.00 - 18.30 8. hanchan  
+18.45 Palkintojenjako  
   
 Kysymyksiä ja/tai palautetta turnauksesta voi lähettää osoitteeseen hallitus@nagashi.fi  
 Tervetuloa!
