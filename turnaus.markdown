@@ -5,7 +5,7 @@ permalink: /turnaus/
 ---
 ## Under the Sea 2024  
   
-Ilmoittautuneet / Registrees: (12/32) *päivitetty 31.7. klo 18.55   
+Ilmoittautuneet / Registrees: (12/32) *päivitetty 31.7. klo 18.55*   
 Tiina-kaisa Nykänen   
 Joni Ilkka  
 Vilhelmiina Viinikka   
