@@ -5,6 +5,12 @@ permalink: /turnaus/
 ---
 ## Under the Sea 2024  
   
+Ilmoittautuneet / Registrees: (4/32)  
+Tiina-kaisa Nykänen   
+Joni Ilkka  
+Vilhelmiina Viinikka   
+Mimmi Lehtonen  
+  
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
