@@ -5,11 +5,20 @@ permalink: /turnaus/
 ---
 ## Under the Sea 2024  
   
-Ilmoittautuneet / Registrees: (4/32)  
+Ilmoittautuneet / Registrees: (12/32) *päivitetty 31.7. klo 18.55   
 Tiina-kaisa Nykänen   
 Joni Ilkka  
 Vilhelmiina Viinikka   
 Mimmi Lehtonen  
+Kristiina	Kuusela  
+Tommi	Ikonen  
+Anne-Mari Haapsamo  
+Henri	Haapsamo  
+Oskari Haapsamo  
+Cecilia	Uppgård  
+Aleksi Fagerroth  
+Lassi	Lähteenmäki  
+
   
 *In English below*  
   
@@ -77,7 +86,7 @@ The time limit for each hanchan is 90 minutes.
 The tournament is played using EMA rules and the results will  affect the National MFRS rankings.
 You can find the latest EMA rules (April 1, 2016) [here](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf).
 
-The tournament will be held on the 13th and 14th of January. The tournament will take place in [Turku-sali](https://www.google.com/maps/place/Turun+yliopiston+ylioppilaskunta+(TYY)/@60.4542084,22.2844857,17z/data=!3m1!4b1!4m6!3m5!1s0x468c76ef052923d1:0xcf557d9666133ac!8m2!3d60.4542058!4d22.2870606!16s%2Fg%2F1tk21kxy?entry=ttu), which is located above the office of the student union of the University of Turku at Rehtorinpellonkatu 4 A, 2nd floor, 20500 Turku.
+The tournament will be held on the 12th and 13th of October. The tournament will take place in [Turku-sali](https://www.google.com/maps/place/Turun+yliopiston+ylioppilaskunta+(TYY)/@60.4542084,22.2844857,17z/data=!3m1!4b1!4m6!3m5!1s0x468c76ef052923d1:0xcf557d9666133ac!8m2!3d60.4542058!4d22.2870606!16s%2Fg%2F1tk21kxy?entry=ttu), which is located above the office of the student union of the University of Turku at Rehtorinpellonkatu 4 A, 2nd floor, 20500 Turku.
 The venue is non-alcoholic. 
 
 The tournament fee is €15 for Nagashi ry members and €20 for non-members. You can also become a member of Nagashi for €3, in which case the amount of membership + tournament fee is €18 in total. The membership is valid until the end of 2025. You can become a member regardless of your place of residence.
@@ -107,7 +116,7 @@ For Saturday evening, participants can spend the evening in the restaurant Proff
 13.45 - 15.15 2. hanchan  
 15.15 - 16.15 break  
 16.15 - 17.45 3. hanchan  
-17.45 - 19.15 4. hanchan  
+18.00 - 19.30 4. hanchan  
   
 **Sunday 13.10.**  
   
@@ -116,8 +125,8 @@ For Saturday evening, participants can spend the evening in the restaurant Proff
 12.45 - 14.15 6. hanchan  
 14.15 - 15.15 break  
 15.15 - 16.45 7. hanchan  
-16.45 - 18.15 8. hanchan  
-18.15 Awards ceremony  
+17.00 - 18.30 8. hanchan  
+18.45 Awards ceremony  
 
 Questions and/or feedback about the tournament can be sent to hallitus@nagashi.fi
 Welcome!
