@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Turnaus
+title:
 permalink: /turnaus/
 ---
 ## Under the River 2024  
