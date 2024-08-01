@@ -1,7 +1,3 @@
----
-layout: page
-permalink: 
----
 ## Under the River 2024  
 Ilmoittautuneita / Registrees:  
 Axel Wilamo  
