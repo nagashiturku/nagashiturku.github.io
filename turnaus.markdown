@@ -19,7 +19,7 @@ Cecilia	Uppgård
 Aleksi Fagerroth  
 Lassi	Lähteenmäki  
 
-  
+    
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
