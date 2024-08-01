@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /turnaus/
+permalink: 
 ---
 ## Under the River 2024  
 Ilmoittautuneita / Registrees:  
