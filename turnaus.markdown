@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Turnaus
+title: 
 permalink: /turnaus/
 ---
 ## Under the Sea 2024  
