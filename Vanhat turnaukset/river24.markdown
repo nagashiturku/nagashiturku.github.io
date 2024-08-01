@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 permalink: 
 ---
 ## Under the River 2024  
