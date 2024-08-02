@@ -5,7 +5,7 @@ permalink: /turnaus/
 ---
 ## Under the Sea 2024  
   
-Ilmoittautuneet / Registrees: (15/32) *päivitetty 1.8. klo 14.43*   
+Ilmoittautuneet / Registrees: (16/32) *päivitetty 3.8. klo 00.43*   
 Tiina-kaisa Nykänen   
 Joni Ilkka  
 Vilhelmiina Viinikka   
@@ -21,7 +21,8 @@ Lassi	Lähteenmäki
 Niilo	Nurminen  
 Einari Lavaste  
 Joonas Karjalainen  
-    
+Aleksi Vehmasaho  
+  
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
