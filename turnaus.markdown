@@ -21,7 +21,7 @@ Einari Lavaste
 Joonas Karjalainen  
 Aleksi Vehmasaho  
 Marko	Uotila   
-Joonas Helava
+Joonas Helava  
 Eero Pihkala
   
 *In English below*  
