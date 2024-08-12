@@ -38,7 +38,7 @@ Turnauksen ajankohta on 12.10. - 13.10.2024 ja paikkana [Turku-sali](https://www
 Turku-sali on päihteetön alue.
   
 Turnausmaksu on 15€ Nagashi ry:n jäsenille ja 20€ ei-jäsenille. Nagashin jäseneksi voi myös liittyä 3€:n hintaan, jolloin jäsenyyden ja turnausmaksun suuruus on siis yhteensä 18€. Jäsenyys on voimassa vuoden 2025 loppuun saakka. Jäseneksi voi liittyä asuinpaikkakunnasta riippumatta.  
-Turnausmaksun ja jäsenmaksun voit maksaa tilisiirtona Nagashin pankkitilille tai paikan päällä käteisenä.
+Turnausmaksun ja jäsenmaksun voit maksaa tilisiirtona Nagashin pankkitilille tai paikan päällä käteisenä tai kortilla.
 Tilisiirrolla maksetut turnausmaksut tulee olla suoritettuna 5.10.2024 mennessä. Muussa tapauksessa tilisiirrosta on pystyttävä näyttämään tosite paikan päällä.
   
 ## Ilmoittautuminen
@@ -94,7 +94,7 @@ The tournament will be held on the 12th and 13th of October. The tournament will
 The venue is non-alcoholic. 
 
 The tournament fee is €15 for Nagashi ry members and €20 for non-members. You can also become a member of Nagashi for €3, in which case the amount of membership + tournament fee is €18 in total. The membership is valid until the end of 2025. You can become a member regardless of your place of residence.
-The tournament and the membership fee can be paid by bank transfer or in cash at the beginning of the event.
+The tournament and the membership fee can be paid by bank transfer or in cash or credit card at the beginning of the event.
 Tournament fees paid by bank transfer must be completed by October 5th, 2024. Otherwise, you must be able to show a receipt for the bank transfer on the spot.
 ## Registration
 Registration is open and ends on October 5th.   
