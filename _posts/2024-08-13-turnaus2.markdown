@@ -8,4 +8,5 @@ author: nagashi
 
 Vuoden 2024 toinen virallinen turnaus pidetään 12. - 13.10. Turku-salissa. Yksityiskohdat [turnaussivulla](https://www.nagashi.fi/turnaus/).    
 The second official tournament of the year will take place on the 12th - 13th of October in Turku-sali. Details are on the [tournament page](https://www.nagashi.fi/turnaus/).   
-![banneri](/assets/Under_the_Sea_2024.png) 
+
+![banner](/assets/Under_the_Sea_2024_banner.png)
