@@ -3,7 +3,7 @@ layout: page
 title: Under the Sea 2024
 permalink: /turnaus/
 ---
-Ilmoittautuneet / Registrees: (20/32) *päivitetty 14.8. klo 13.13*   
+Ilmoittautuneet / Registrees: (21/32) *päivitetty 15.8. klo 00.13*   
 Tiina-kaisa Nykänen   
 Joni Ilkka  
 Vilhelmiina Viinikka   
@@ -24,6 +24,7 @@ Marko	Uotila
 Joonas Helava  
 Eero Pihkala   
 Kimmo Pyyhtiä   
+Teemu	Piippo   
   
 *In English below*  
   
