@@ -5,7 +5,7 @@ permalink: /turnaus/
 ---
 Ilmoittautuneet / Registrees: (32/32) *päivitetty 19.8. klo 22.17* 
 
-Turnaus on täynnä!
+**Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
 
 Tiina-kaisa Nykänen   
 Joni Ilkka  
