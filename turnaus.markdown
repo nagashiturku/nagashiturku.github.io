@@ -3,7 +3,10 @@ layout: page
 title: Under the Sea 2024
 permalink: /turnaus/
 ---
-Ilmoittautuneet / Registrees: (29/32) *päivitetty 19.8. klo 01.03*   
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 19.8. klo 22.17* 
+
+Turnaus on täynnä!
+
 Tiina-kaisa Nykänen   
 Joni Ilkka  
 Vilhelmiina Viinikka   
@@ -32,7 +35,10 @@ Elle Fellman
 Jesse	Vuontisjärvi  
 Mikko	Aarnos   
 Thu	Dinh   
-Karri	Pääkkönen   
+Karri	Pääkkönen
+Johannes Räsänen 
+Joel Siirto
+Robin Nyman
   
 *In English below*  
   
