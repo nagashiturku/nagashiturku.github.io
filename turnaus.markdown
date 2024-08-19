@@ -35,10 +35,10 @@ Elle Fellman
 Jesse	Vuontisjärvi  
 Mikko	Aarnos   
 Thu	Dinh   
-Karri	Pääkkönen
-Johannes Räsänen 
-Joel Siirto
-Robin Nyman
+Karri	Pääkkönen   
+Johannes Räsänen   
+Joel Siirto   
+Robin Nyman   
   
 *In English below*  
   
