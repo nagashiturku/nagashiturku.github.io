@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Uusi automaattipöytä"
+date:   2024-08-19 11:37:18 +0300
+categories: seura nagashi sivut
+author: Nagashi
+---
+
+Nagashille saapui tänään uusi automaattipöytä jäseniemme iloksi.
+![pöytä](assets/mahjong-auto.jpg)
