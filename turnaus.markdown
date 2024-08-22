@@ -40,6 +40,9 @@ Johannes Räsänen
 Joel Siirto   
 Robin Nyman   
   
+Varasijoilla:  
+Aleksanteri Kupi  
+  
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
