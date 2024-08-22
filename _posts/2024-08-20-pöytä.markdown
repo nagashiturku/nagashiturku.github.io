@@ -7,4 +7,5 @@ author: Nagashi
 ---
 
 Nagashille saapui tänään uusi automaattipöytä jäseniemme iloksi.
+  
 ![pöytä](/assets/mahjong-auto.jpg)
