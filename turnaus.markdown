@@ -42,7 +42,7 @@ Robin Nyman
   
 Varasijoilla:  
 Aleksanteri Kupi  
-Petteri Huuskonen
+Petteri Huuskonen  
 Rurik Haapsamo
   
 *In English below*  
