@@ -3,7 +3,7 @@ layout: page
 title: Under the Sea 2024
 permalink: /turnaus/
 ---
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 23.8. klo 23.05* 
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 18.9. klo 01.00* 
 
 **Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
 
