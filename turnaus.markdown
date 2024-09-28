@@ -3,7 +3,7 @@ layout: page
 title: Under the Sea 2024
 permalink: /turnaus/
 ---
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 18.9. klo 01.00* 
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 28.9. klo 20.14* 
 
 **Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
 
@@ -43,7 +43,8 @@ Robin Nyman
 Varasijoilla:  
 Aleksanteri Kupi  
 Petteri Huuskonen  
-Rurik Haapsamo
+Rurik Haapsamo  
+Chris	Yung
   
 *In English below*  
   
