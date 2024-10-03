@@ -3,7 +3,7 @@ layout: page
 title: Under the Sea 2024
 permalink: /turnaus/
 ---
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 28.9. klo 20.14* 
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 3.10. klo 11.56* 
 
 **Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
 
@@ -28,8 +28,7 @@ Joonas Helava
 Eero Pihkala   
 Kimmo Pyyhtiä   
 Teemu	Piippo   
-Jouni	Lehtinen  
-Jesper Räisänen   
+Jouni	Lehtinen    
 Nico Hilbert    
 Elle Fellman  
 Jesse	Vuontisjärvi  
@@ -38,10 +37,10 @@ Thu	Dinh
 Karri	Pääkkönen   
 Johannes Räsänen   
 Joel Siirto   
-Robin Nyman   
+Robin Nyman  
+Aleksanteri Kupi   
   
-Varasijoilla:  
-Aleksanteri Kupi  
+Varasijoilla:   
 Petteri Huuskonen  
 Rurik Haapsamo  
 Chris	Yung
