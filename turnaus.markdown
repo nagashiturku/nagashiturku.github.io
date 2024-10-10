@@ -3,15 +3,14 @@ layout: page
 title: Under the Sea 2024
 permalink: /turnaus/
 ---
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 10.10. klo 18.00* 
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 10.10. klo 19.13* 
 
 **Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
 
 Tiina-kaisa Nykänen   
 Joni Ilkka  
 Vilhelmiina Viinikka   
-Mimmi Lehtonen  
-Kristiina	Kuusela  
+Mimmi Lehtonen   
 Tommi	Ikonen  
 Anne-Mari Haapsamo  
 Henri	Haapsamo  
@@ -39,9 +38,10 @@ Joel Siirto
 Robin Nyman  
 Aleksanteri Kupi  
 Rurik Haapsamo   
+Chris	Yung  
   
 Varasijoilla:   
-Chris	Yung
+
   
 *In English below*  
   
