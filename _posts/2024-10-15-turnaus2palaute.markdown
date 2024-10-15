@@ -8,3 +8,4 @@ author: nagashi
 # Kiitos osallistumisesta Under the sea 2024 -turnaukseen!  
 Otamme mielellämme palautetta vastaan.  
 ## [Täytä palautekysely](https://forms.gle/7Mb2LQiBw6fDJBUs8)  
+!(https://github.com/nagashiturku/nagashiturku.github.io/blob/9602c4e37fac0bfe154ae9980d0c462327a14ecb/_posts/seatulokset.jpg?raw=true)
