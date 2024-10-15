@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Under the Sea 2024"
-date: 2024-10-15 16:37:18 +0300
+date: 2024-10-15 00:37:18 +0300
 categories: turnaus nagashi palaute
 author: nagashi
 ---
