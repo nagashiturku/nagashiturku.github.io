@@ -3,7 +3,7 @@ layout: page
 title: Under the River 2025
 permalink: /turnaus/
 ---
-# Under the River 2025  
+  
 Ilmoittautuneet / Registrees: (0/32) *päivitetty 1.12. klo 00.01* 
 
 
