@@ -4,7 +4,7 @@ title: Under the River 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (26/32) *päivitetty 22.12. klo 11.50*  
+Ilmoittautuneet / Registrees: (27/32) *päivitetty 22.12. klo 13.55*  
 Ari Nalle  
 Joni Ilkka  
 Tiina-Kaisa Nykänen  
@@ -31,6 +31,7 @@ Drew Mäkisalo
 Lassi Lähteenmäki  
 Aleksi Vehmasaho  
 Jouni Lehtinen  
+Rurik Haapsamo  
 
   
 *In English below*  
