@@ -4,7 +4,7 @@ title: Under the River 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (30/32) *päivitetty 22.12. klo 20.00*  
+Ilmoittautuneet / Registrees: (31/32) *päivitetty 23.12. klo 09.05*  
 Ari Nalle  
 Joni Ilkka  
 Tiina-Kaisa Nykänen  
@@ -35,6 +35,7 @@ Rurik Haapsamo
 Iivari van Uden  
 Thu Dinh  
 Mikko Aarnos  
+Toni Kangasoja  
 
   
 *In English below*  
