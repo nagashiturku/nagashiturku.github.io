@@ -4,7 +4,7 @@ title: Under the River 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 23.12. klo 17.43*  
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 31.12. klo 16.00*  
   
 **Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
   
