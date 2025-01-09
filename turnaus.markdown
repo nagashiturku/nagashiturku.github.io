@@ -4,7 +4,7 @@ title: Under the River 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 4.1. klo 13.07*  
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 10.1. klo 00.22*  
   
 **Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
   
@@ -104,7 +104,7 @@ Tervetuloa!
 
 ---------------------  
 ## Under the River 2025
-**Turku Riichi-mahjong club Nagashi ry will organize "Under the River 2025" tounament on 1. - 2.2. in Turku-sali.
+**Turku Riichi-mahjong club Nagashi ry will organize "Under the River 2025" tournament on 1. - 2.2. in Turku-sali.
 During the two days eight hachans will be played.**  
 The time limit for each hanchan is 90 minutes.
 The tournament is played using EMA rules and the results will  affect the National MFRS rankings.
