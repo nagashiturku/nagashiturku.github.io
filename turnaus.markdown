@@ -4,9 +4,8 @@ title: Under the River 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 10.1. klo 00.22*  
+Ilmoittautuneet / Registrees: (31/32) *päivitetty 16.1. klo 19.08*  
   
-**Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
   
 Ari Nalle  
 Joni Ilkka  
@@ -19,7 +18,6 @@ Mimmi Lehtonen
 Cecilia Uppgård  
 Aleksi Fagerroth  
 Aleksanteri Kupi  
-Nico Hilbert  
 Vilhelmiina Viinikka  
 Ville Österlund  
 Elle Fellman  
