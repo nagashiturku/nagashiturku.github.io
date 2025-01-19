@@ -4,8 +4,9 @@ title: Under the River 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (31/32) *päivitetty 16.1. klo 19.08*  
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 19.1. klo 15.06*  
   
+**Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
   
 Ari Nalle  
 Joni Ilkka  
@@ -38,6 +39,7 @@ Mikko Aarnos
 Toni Kangasoja  
 Robin Nyman  
 Petteri Huuskonen  
+Niilo Nurminen
   
 Varasijoilla:  
 
