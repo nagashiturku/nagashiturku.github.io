@@ -4,7 +4,7 @@ title: Under the River 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 29.1. klo 18.33*  
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 30.1. klo 20.17*  
   
 **Turnaus on täynnä! Tulevat ilmoittautumiset siirtyvät varasijoille**
   
@@ -16,7 +16,6 @@ Oskari Haapsamo
 Kristiina Kuusela  
 Tommi Ikonen  
 Mimmi Lehtonen  
-Cecilia Uppgård  
 Aleksi Fagerroth  
 Aleksanteri Kupi  
 Vilhelmiina Viinikka  
@@ -39,7 +38,8 @@ Toni Kangasoja
 Robin Nyman  
 Petteri Huuskonen  
 Niilo Nurminen  
-Teemu Piippo
+Teemu Piippo  
+Johannes Räsänen
   
 Varasijoilla:  
 
