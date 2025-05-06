@@ -68,8 +68,8 @@ Tervetuloa!
 
 ---------------------  
 ## Under the Sea 2025  
-**Turku Riichi-mahjong club Nagashi ry will organize “Under the Sea 2025” tournament on 4.10. - 5.10. in T-Talo.  
-During the two days eight hachans will be played.**   
+**Turku Riichi-mahjong club Nagashi ry will organize “Under the Sea 2025” tournament on 4.10. - 5.10. in T-Talo.**   
+During the two days eight hachans will be played.  
 The time limit for each hanchan is 90 minutes.  
 The tournament is played using EMA rules and the tournament results will be recorded in the National MFRS rankings and the EMA MERS rankings. Under the Sea 2025 also doubles as the Finnish Riichi Championship for year 2025.  
 Latest EMA rules will be used and you can find the current active EMA rules (April 1, 2016) [here](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf)   
