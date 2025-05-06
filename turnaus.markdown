@@ -4,7 +4,7 @@ title: Under the Sea 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (0/60) *päivitetty 6.5. klo 18.15*  
+Ilmoittautuneet / Registrees: (0/60) *päivitetty 6.5. klo 23.50*  
   
 
   
@@ -40,7 +40,8 @@ Viestiksi: “Under the Sea 2025, [oma nimi]”
   
 ## Ruokailu + majoitus
 Pelipaikka sijaitsee Kupittaan rautatieaseman läheisyydessä Turun yliopistollisen sairaalan takana, joten linja-autoyhteydet ovat hyvät, sekä alueella on kohtalainen määrä eri majoitusvaihtoehtoja (esim. Omena-hotelli, Hese-hotelli.)  
-Pelipaikan läheisyydessä on useampi kebab-pizzeria, sekä viiden minuutin kävelymatkan päässä K-Supermarket Nummenpakka, joissa ehtii käydä hyvin tauon aikana.   
+Pelipaikan läheisyydessä on useampi kebab-pizzeria, sekä viiden minuutin kävelymatkan päässä K-Supermarket Nummenpakka, joissa ehtii käydä hyvin tauon aikana.  
+Paikan päällä on tarjolla myös kahvia ja pientä purtavaa.   
 
 
 ## Aikataulu
@@ -96,7 +97,8 @@ Message: "Under the Sea 2025, [name]”
 
 ## Meals + accommodation
 Tournament venue is located near the center of Turku and the Kupittaa train station behind the Turku University Hospital. Bus connections are good and there are a good number of different accommodation options in the area (e.g. Omena hotel, Hese hotel).  
-There are multiple kebab-pizza restaurants where you can have lunch near the venue. There is also a convenience store K-Supermarket within a 5-minutes walk.   
+There are multiple kebab-pizza restaurants where you can have lunch near the venue. There is also a convenience store K-Supermarket within a 5-minutes walk.  
+Coffee and snacks will be served at the venue.   
 
 ## Schedule
 **Saturday 4.10.**  
