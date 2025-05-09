@@ -4,16 +4,16 @@ title: Liiga
 permalink: /liiga/
 ---
 
-Yhdistys järjestää jäsenilleen kilpailutoimintana mahjong-liigan, jossa pelataan kalenterivuotinen kausi ja neljän hanchanin mittainen finaali parhaiten pärjänneiden kesken. Liigan pelit pelataan EMA:n riichi-sääntöjen mukaan. Pelit kirjataan kahteen erilliseen listaan, joista toiseen tulee pelin aikana kerätyt tai menetetyt pisteet ja toiseen sijoitukset. Sijoitustaulukosta lasketaan uma 3/1/-1/-3.
+Yhdistys järjestää jäsenilleen kilpailutoimintana mahjong-liigan, jossa pelataan kalenterivuoden aikana kaksi 6 kk:n kautta. Koko vuoden mestaruus ratkaistaan neljän hanchanin mittaisella finaalilla parhaiten pärjänneiden kesken. Liigan pelit pelataan EMA:n riichi-sääntöjen mukaan. Sijoitusbonus eli uma on myös EMA:n sääntöjen mukainen: +15000/+5000/-5000/-15000.
 
-Itse finaali koostuu neljästä peräkkäisestä hanchanista ja finalistit valitaan kauden aikana vähintään 10 peliä pelanneista jäsenistä seuraavilla kriteereillä:
+Vuoden liigafinaali koostuu neljästä peräkkäisestä hanchanista ja finalistit valitaan kauden aikana vähintään 10 peliä pelanneista jäsenistä seuraavilla kriteereillä:
 
-1. Edellisen kauden finaalin voittaja
-2. Jäljellä olevista eniten pisteitä kerännyt
-3. Jäljellä olevista eniten uma-pisteitä kerännyt
+1. Edellisen vuoden finaalin voittaja eli hallitseva mestari
+2. Alkuvuoden kauden pisteykkönen
+3. Loppuvuoden kauden pisteykkönen (tai kakkonen, jos sama kuin alkuvuoden pisteykkönen)
 
-Viimeinen pelaaja valitaan nk. mustahevosturnauksessa, johon saavat osallistua kaikki muut vähintään 10 liigapeliä pelanneet jäsenet yhteispisteistä tai umasta riippumatta. Mustahevosturnauksen rakennetta muokataan tarvittaessa pelaajamäärien mukaan mutta perusperiaatteena on yksittäinen hanchan, jossa chombo on välitön käänteinen mangan.
+Viimeinen pelaaja valitaan nk. mustahevosturnauksessa, johon saavat osallistua kaikki muut vähintään 10 liigapeliä pelanneet jäsenet yhteispisteistä riippumatta. Mustahevosturnauksen rakennetta muokataan tarvittaessa pelaajamäärien mukaan mutta perusperiaatteena on yksittäinen hanchan, jossa chombo on välitön käänteinen mangan.
 
 
 
-Kuluvan kauden tulokset löydät [täältä](/tilasto/).
+## Kuluvan kauden tilastopisteet löydät [täältä](/tilasto/).
