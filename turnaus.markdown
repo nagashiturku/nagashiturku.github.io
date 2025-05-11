@@ -4,9 +4,24 @@ title: Under the Sea 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (0/60) *päivitetty 6.5. klo 23.50*  
+Ilmoittautuneet / Registrees: (15/60) *päivitetty 11.5. klo 15.30*  
   
-
+Kristiina Kuusela  
+Tommi Ikonen  
+Aleksi Fagerroth  
+Einari Lavaste  
+Drew Mäkisalo  
+Vilhelmiina Viinikka  
+Joonas Helava  
+Anselmi Ahonen  
+Anne-Mari Haapsamo  
+Oskari Haapsamo  
+Rurik Haapsamo  
+Mimmi Lehtonen  
+Samuli Hirvonen  
+Tiina-Kaisa Nykänen  
+Ari Nalle  
+  
   
 *In English below*  
   
