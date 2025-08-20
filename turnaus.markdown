@@ -4,7 +4,7 @@ title: Under the Sea 2025
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (38/60) *päivitetty 20.8. klo 02.20*  
+Ilmoittautuneet / Registrees: (39/60) *päivitetty 21.8. klo 01.30*  
   
 Kristiina Kuusela  
 Tommi Ikonen  
@@ -44,6 +44,7 @@ Jouni Lehtinen
 Lassi Lähteenmäki  
 Milla Sandström  
 Utu Kalliokoski  
+Tomi Pelttari  
   
 *In English below*  
   
