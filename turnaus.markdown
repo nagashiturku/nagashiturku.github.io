@@ -78,9 +78,8 @@ Turnausmaksun ja jäsenmaksun voit maksaa tilisiirtona Nagashin pankkitilille, t
 Tilisiirrolla maksetut turnausmaksut tulee olla suoritettuna 26.9.2025 mennessä. Muussa tapauksessa tilisiirrosta on pystyttävä näyttämään tosite paikan päällä.
   
 ## Ilmoittautuminen
-Ilmoittautuminen on käynnissä ja päättyy 26.9.2025.  
+Ilmoittautuminen on päättynyt.  
 Paikkoja turnauksessa on yhteensä 60:lle pelaajalle.  
-Turnauksen ilmoittautumislomake: [tästä linkistä](https://forms.gle/8g2KyqFcDL2ffiPN9)  
 Nagashi ry jäsenlomake: [tästä linkistä](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)
   
 **Maksutiedot:**  
@@ -136,8 +135,7 @@ The tournament and the membership fee can be paid by bank transfer or in cash or
 Tournament fees paid by bank transfer must be completed by September 26th, 2025. Otherwise, you must be able to show a receipt for the bank transfer on the spot.   
 
 ## Registration
-Registration is open and ends on September 26th.    
-Tournament registration form: [here](https://forms.gle/8g2KyqFcDL2ffiPN9)  
+Registration is closed  
 Nagashi ry membership form: [here](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)
 
 **Payment information:**
