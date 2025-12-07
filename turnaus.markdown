@@ -7,7 +7,7 @@ permalink: /turnaus/
 Ilmoittautuneet / Registrees: (00/32) *päivitetty 7.12. klo 12.30*  
 
   
-*Turun Riichi-mahjong seura Nagashi ry järjestää
+**Turun Riichi-mahjong seura Nagashi ry järjestää
 "Under the River 2026" -turnauksen 7.2. - 8.2. Turku-salissa**  
   
 Turnauksessa pelataan kahdeksan hanchania kahden päivän aikana. 
@@ -76,7 +76,7 @@ The venue is non-alcoholic.
 
 The tournament fee is €15 for Nagashi ry members and €20 for non-members. You can also become a member of Nagashi for €3, in which case the amount of membership + tournament fee is €18 in total. The membership is valid until the end of 2026. You can become a member regardless of your place of residence.
 The tournament and the membership fee can be paid by bank transfer or in cash or credit card at the beginning of the event.
-Tournament fees paid by bank transfer must be completed by January 25th, 2025. Otherwise, you must be able to show a receipt for the bank transfer on the spot.
+Tournament fees paid by bank transfer must be completed by February 1st, 2026. Otherwise, you must be able to show a receipt for the bank transfer on the spot.
 ## Registration
 Registration is open and ends on February 1st.   
 There are playing spots for 32 players.  
