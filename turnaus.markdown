@@ -4,7 +4,12 @@ title: Under the River 2026
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (00/32) *päivitetty 7.12. klo 12.30*  
+Ilmoittautuneet / Registrees: (4/32) *päivitetty 8.12. klo 22.35*  
+Tiina-Kaisa Nykänen  
+Ari Nalle  
+Joni Ilkka  
+Kristiina Kuusela  
+
 
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
