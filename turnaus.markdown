@@ -25,7 +25,7 @@ Miina	Viinikka
 Turnauksessa pelataan kahdeksan hanchania kahden päivän aikana. 
 Jokaisen hanchanin aikaraja on 90 minuuttia.
 Turnaus pelataan EMA-sääntöjä käyttäen ja lopputilastot vaikuttavat Suomen laajuisiin MFRS-sijoituksiin.
-Uusimmat EMA-säännöt (1.1.2026) löydät [täältä](http://www.mahjongfinland.fi/wp-content/uploads/2025/10/riichi_rulebook_2025_final_draft_26.09.2025.pdf).
+Uusimmat EMA-säännöt (1.1.2026) löydät [täältä](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2025-EN.pdf).
 
 Turnauksen ajankohta on 7.2. - 8.2.2026 ja paikkana [Turku-sali](https://www.google.com/maps/place/Turun+yliopiston+ylioppilaskunta+(TYY)/@60.4542084,22.2844857,17z/data=!3m1!4b1!4m6!3m5!1s0x468c76ef052923d1:0xcf557d9666133ac!8m2!3d60.4542058!4d22.2870606!16s%2Fg%2F1tk21kxy?entry=ttu), joka sijaitsee Turun yliopiston ylioppilaskunnan kanslian yläpuolella osoitteessa Rehtorinpellonkatu 4 A, 2. krs, 20500 Turku.
 Turku-sali on päihteetön alue.
@@ -81,7 +81,7 @@ Tervetuloa!
 During the two days eight hachans will be played.**  
 The time limit for each hanchan is 90 minutes.
 The tournament is played using EMA rules and the results will  affect the National MFRS rankings.
-You can find the latest EMA rules (January 1, 2026) [here](http://www.mahjongfinland.fi/wp-content/uploads/2025/10/riichi_rulebook_2025_final_draft_26.09.2025.pdf).
+You can find the latest EMA rules (January 1, 2026) [here](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2025-EN.pdf).
 
 The tournament will be held on the 7th and 8th of February. The tournament will take place in [Turku-sali](https://www.google.com/maps/place/Turun+yliopiston+ylioppilaskunta+(TYY)/@60.4542084,22.2844857,17z/data=!3m1!4b1!4m6!3m5!1s0x468c76ef052923d1:0xcf557d9666133ac!8m2!3d60.4542058!4d22.2870606!16s%2Fg%2F1tk21kxy?entry=ttu), which is located above the office of the student union of the University of Turku at Rehtorinpellonkatu 4 A, 2nd floor, 20500 Turku.
 The venue is non-alcoholic. 
