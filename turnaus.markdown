@@ -4,7 +4,7 @@ title: Under the River 2026
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (12/32) *päivitetty 10.12. klo 1.00*  
+Ilmoittautuneet / Registrees: (22/32) *päivitetty 23.12. klo 1.00*  
 Tiina-Kaisa Nykänen  
 Ari Nalle  
 Joni Ilkka  
@@ -17,6 +17,16 @@ Lassi	Lähteenmäki
 Aleksi Fagerroth  
 Anne-Mari	Haapsamo  
 Miina	Viinikka  
+Aleksanteri	Kupi  
+Oskari Haapsamo  
+Rurik	Haapsamo  
+Tuomas Pynnönen  
+Anselmi	Ahonen  
+Henri	Mäkelä  
+Samuli Hirvonen  
+Tommi	Ikonen  
+Jesper Räisänen   
+Shaswato Sarker  
 
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
