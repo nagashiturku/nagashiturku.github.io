@@ -65,7 +65,8 @@ Lauantai-iltaa voi viettää osallistujien kanssa ravintola Proffan Kellarissa. 
 ## Aikataulu
 **Lauantai 7.2.**  
   
-11.30 - 12.05 Ilmoittautuminen  
+11.15 - 11.45 Ilmoittautuminen  
+11.45 - 12.05 Uudet säännöt -seminaari  
 12.15 - 13.45 1. hanchan  
 14.00 - 15.30 2. hanchan  
 15.30 - 16.45 tauko  
@@ -119,7 +120,8 @@ For Saturday evening, participants can spend the evening in the restaurant Proff
 ## Schedule
 **Saturday 7.2.**  
   
-11.30 - 12.05 Check in  
+11.15 - 11.45 Check in  
+11.45 - 12.05 New rules seminar  
 12.15 - 13.45 1. hanchan  
 14.00 - 15.30 2. hanchan  
 15.30 - 16.45 break  
