@@ -32,7 +32,7 @@ Drew Mäkisalo
 Elle Fellman  
 Antti	Taivalsaari  
 Arttu	Pesola  
-Robin Nyman 
+Robin Nyman  
 Klaudia	Lensu  
 Touko	Nisula  
 Johannes Räsänen  
