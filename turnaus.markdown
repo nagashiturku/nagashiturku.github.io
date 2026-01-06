@@ -4,7 +4,7 @@ title: Under the River 2026
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 5.1. klo 1.10*  
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 6.1. klo 21.00*  
 Tiina-Kaisa Nykänen  
 Ari Nalle  
 Joni Ilkka  
