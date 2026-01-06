@@ -37,6 +37,11 @@ Klaudia	Lensu
 Touko	Nisula  
 Johannes Räsänen  
 Jesse	Vuontisjärvi  
+
+Varasijalla / Reserve:  
+Natnael	Vuori  
+Aaron	Lounaja  
+Jouni	Lehtinen  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
 "Under the River 2026" -turnauksen 7.2. - 8.2. Turku-salissa**  
