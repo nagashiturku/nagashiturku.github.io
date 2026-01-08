@@ -4,7 +4,7 @@ title: Under the River 2026
 permalink: /turnaus/
 ---
   
-Ilmoittautuneet / Registrees: (32/32) *päivitetty 6.1. klo 21.00*  
+Ilmoittautuneet / Registrees: (32/32) *päivitetty 8.1. klo 23.00*  
 Tiina-Kaisa Nykänen  
 Ari Nalle  
 Joni Ilkka  
@@ -42,6 +42,7 @@ Varasijalla / Reserve:
 Natnael	Vuori  
 Aaron	Lounaja  
 Jouni	Lehtinen  
+Aleksi Vehmasaho  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
 "Under the River 2026" -turnauksen 7.2. - 8.2. Turku-salissa**  
