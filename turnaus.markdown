@@ -23,7 +23,6 @@ Rurik	Haapsamo
 Tuomas Pynnönen  
 Anselmi	Ahonen  
 Henri	Mäkelä  
-Samuli Hirvonen  
 Tommi	Ikonen  
 Jesper Räisänen   
 Shaswato Sarker  
@@ -37,9 +36,9 @@ Klaudia	Lensu
 Touko	Nisula  
 Johannes Räsänen  
 Jesse	Vuontisjärvi  
+Natnael	Vuori  
 
 Varasijalla / Reserve:  
-Natnael	Vuori  
 Aaron	Lounaja  
 Jouni	Lehtinen  
 Aleksi Vehmasaho  
