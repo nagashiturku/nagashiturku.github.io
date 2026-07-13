@@ -26,7 +26,7 @@ Turnausmaksun ja jäsenmaksun voit maksaa tilisiirtona Nagashin pankkitilille, t
 Tilisiirrolla maksetut turnausmaksut tulee olla suoritettuna 17.10.2026 mennessä. Muussa tapauksessa tilisiirrosta on pystyttävä näyttämään tosite paikan päällä.
   
 ## Ilmoittautuminen
-[Ilmoittautuminen on auki](https://docs.google.com/forms/d/e/1FAIpQLSe4YukI1r5KECM4HpXJ6O553-e1Po5j1al81wDRmG8aA8S2UA/viewform)  
+[Ilmoittautuminen on auki](https://docs.google.com/forms/d/e/1FAIpQLSe4YukI1r5KECM4HpXJ6O553-e1Po5j1al81wDRmG8aA8S2UA/viewform) ja sulkeutuu 17.10.  
 Paikkoja turnauksessa on yhteensä 60:lle pelaajalle.  
   
 [Nagashi ry:n jäsenlomake](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)  
@@ -84,7 +84,7 @@ The tournament and the membership fee can be paid by bank transfer or in cash or
 Tournament fees paid by bank transfer must be completed by October 17th. Otherwise, you must be able to show a receipt for the bank transfer on the spot.   
 
 ## Registration
-[Registration is open](https://docs.google.com/forms/d/e/1FAIpQLSe4YukI1r5KECM4HpXJ6O553-e1Po5j1al81wDRmG8aA8S2UA/viewform)  
+[Registration is open](https://docs.google.com/forms/d/e/1FAIpQLSe4YukI1r5KECM4HpXJ6O553-e1Po5j1al81wDRmG8aA8S2UA/viewform) and closes on October 17th. 
 Nagashi ry membership form: [here](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)
 
 **Payment information:**
