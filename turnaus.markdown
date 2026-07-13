@@ -2,7 +2,6 @@
 layout: page
 title: Under the Sea 2026
 permalink: /turnaus/
-published: true
 ---
 
 Ilmoittautuneet / Registrees: (0/60)  
