@@ -18,7 +18,7 @@ Turnaus pelataan EMA-sääntöjä käyttäen ja lopputilastot vaikuttavat Suomen
 Turnaus pelataan sinä hetkenä voimassa olevilla EMA-säännöillä ja tämän hetken uusimmat EMA-säännöt 2025 löydät [täältä](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2025-EN.pdf)
 
 
-Turnauksen ajankohta on 24.10. - 25.10.2025 ja paikkana [T-Talo](https://maps.app.goo.gl/z8gytuZadcxEGpTd9), joka sijaitsee Turun yliopistollisen keskussairaalan läheisyydessä, osoitteessa Vanha Hämeentie 29, 20540 Turku.
+Turnauksen ajankohta on 24.10. - 25.10.2026 ja paikkana [T-Talo](https://maps.app.goo.gl/z8gytuZadcxEGpTd9), joka sijaitsee Turun yliopistollisen keskussairaalan läheisyydessä, osoitteessa Vanha Hämeentie 29, 20540 Turku.
 
   
 Turnausmaksu on 20€ Nagashi ry:n jäsenille ja 25€ ei-jäsenille. Nagashin jäseneksi voi myös liittyä 5€:n hintaan, jolloin jäsenyyden ja turnausmaksun suuruudeksi tulee yhteensä 25€. Jäsenyys on voimassa vuoden 2027 loppuun saakka ja jäseneksi voit liittyä asuinpaikkakunnasta riippumatta.
