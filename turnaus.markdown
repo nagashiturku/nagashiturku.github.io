@@ -5,7 +5,7 @@ permalink: /turnaus/
 published: true
 ---
 
-Ilmoittautuneet / Registrees: (15/60): (päivitetty 19.7. klo 1.00)
+Ilmoittautuneet / Registrees: (15/60): *(päivitetty 19.7. klo 1.00)*
   
 Ari	Nalle  
 Teemu	Paloniemi  
