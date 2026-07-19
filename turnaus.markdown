@@ -5,8 +5,23 @@ permalink: /turnaus/
 published: true
 ---
 
-Ilmoittautuneet / Registrees: (0/60)  
+Ilmoittautuneet / Registrees: (15/60): (päivitetty 19.7. klo 1.00)
   
+Ari	Nalle  
+Teemu	Paloniemi  
+Kristiina	Kuusela  
+Tommi	Ikonen  
+Aleksi Fagerroth  
+Mimmi	Lehtonen  
+Jouni	Lehtinen  
+Milla	Sandström  
+Teemu	Piippo  
+Oskar	Lappi  
+Aleksanteri	Kupi  
+Miina	Viinikka  
+Johannes Natunen  
+Kukka	Korsu  
+Anne-Mari Haapsamo  
   
 *In English below*  
   
