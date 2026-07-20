@@ -5,7 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-Ilmoittautuneet / Registrees: (17/60): *(päivitetty 19.7. klo 23.20)*
+Ilmoittautuneet / Registrees: (18/60):   
+*(päivitetty 20.7. klo 14.00)*
   
 Ari	Nalle  
 Teemu	Paloniemi  
@@ -24,6 +25,7 @@ Kukka	Korsu
 Anne-Mari Haapsamo  
 Matias Tran  
 Jesse	Vuontisjärvi  
+Joonas Helava  
   
 *In English below*  
   
