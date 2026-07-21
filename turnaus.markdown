@@ -5,7 +5,7 @@ permalink: /turnaus/
 published: true
 ---
 
-Ilmoittautuneet / Registrees: (19/60):   
+Ilmoittautuneet / Registrees: (21/60):   
 *(päivitetty 21.7. klo 00.40)*
   
 | Nimi / Name  | EMA ID | Maa / Country |
@@ -14,27 +14,23 @@ Ilmoittautuneet / Registrees: (19/60):
 | Teemu	Paloniemi | 14990146  | Suomi |
 | Kristiina Kuusela  | 14990020  | Suomi |
 | Tommi	Ikonen | 14990057 | Suomi |
-
-
-Ari Nalle
-Teemu	Paloniemi  
-Kristiina	Kuusela  
-Tommi	Ikonen  
-Aleksi Fagerroth  
-Mimmi	Lehtonen  
-Jouni	Lehtinen  
-Milla	Sandström  
-Teemu	Piippo  
-Oskar	Lappi  
-Aleksanteri	Kupi  
-Miina	Viinikka  
-Johannes Natunen  
-Kukka	Korsu  
-Anne-Mari Haapsamo  
-Matias Tran  
-Jesse	Vuontisjärvi  
-Joonas Helava  
-Tiina-Kaisa	Nykänen  
+| Aleksi Fagerroth  | 14990133 | Suomi |
+| Mimmi	Lehtonen |  14990054 | Suomi |
+| Jouni	Lehtinen  | 14990047 | Suomi |
+| Milla	Sandström  | 14990178 | Suomi |
+| Teemu	Piippo  | | Suomi |
+| Oskar	Lappi | 14990194 | Suomi |
+| Aleksanteri	Kupi | 14990134 | Suomi |
+| Miina	Viinikka  | 14990079 | Suomi |
+| Johannes Natunen  | 14990162 | Suomi |
+| Kukka	Korsu  | 14990083 | Suomi |
+| Anne-Mari Haapsamo  | 14990043 | Suomi |
+| Matias Tran  | 14990148 | Suomi |
+| Jesse	Vuontisjärvi | 14990175 | Suomi |
+| Joonas Helava  | 14990166 | Suomi |
+| Tiina-Kaisa	Nykänen  | 14990161 | Suomi |
+| Toni Kangasoja  | | Suomi |
+| Drew Mäkisalo  | 14990156 | Suomi |
   
 *In English below*  
   
