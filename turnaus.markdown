@@ -11,9 +11,10 @@ Ilmoittautuneet / Registrees: (19/60):
 | Nimi / Name  | EMA ID | Maa / Country |
 |-------|-----|------------|
 | Ari	Nalle | 14990115  | Suomi  |
-| Li    | 30  | Designer   |
+| Teemu	Paloniemi | 30  | Designer   |
 | Wang  | 28  | Product Manager |
-  
+
+Ari Nalle
 Teemu	Paloniemi  
 Kristiina	Kuusela  
 Tommi	Ikonen  
