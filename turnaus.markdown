@@ -6,7 +6,7 @@ published: true
 ---
 
 ### Ilmoittautuneet / Registrees: (21/60):   
-*(päivitetty 22.7. klo 00.15)*
+*(päivitetty 23.7. klo 21.00)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -31,6 +31,7 @@ published: true
 | 19|Tiina-Kaisa	Nykänen  | 14990161 |🇫🇮 Suomi |
 | 20|Toni Kangasoja  | |🇫🇮 Suomi |
 | 21|Drew Mäkisalo  | 14990156 |🇫🇮 Suomi |
+|22|Joni Ilkka|14990120|🇫🇮 Suomi|
   
 *In English below*  
   
