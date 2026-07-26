@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (21/60):   
-*(päivitetty 23.7. klo 21.00)*
+### Ilmoittautuneet / Registrees: (23/60):   
+*(päivitetty 26.7. klo 20.15)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -32,6 +32,7 @@ published: true
 | 20|Toni Kangasoja  | |🇫🇮 Suomi |
 | 21|Drew Mäkisalo  | 14990156 |🇫🇮 Suomi |
 |22|Joni Ilkka|14990120|🇫🇮 Suomi|
+|23|Szymon 	Nowicz|19000140|🇵🇱 Poland| 
   
 *In English below*  
   
