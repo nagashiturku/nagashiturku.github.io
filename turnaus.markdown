@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (23/60):   
-*(päivitetty 26.7. klo 20.15)*
+### Ilmoittautuneet / Registrees: (24/60):   
+*(päivitetty 28.7. klo 00.15)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -32,8 +32,9 @@ published: true
 | 20|Toni Kangasoja  | |🇫🇮 Suomi |
 | 21|Drew Mäkisalo  | 14990156 |🇫🇮 Suomi |
 |22|Joni Ilkka|14990120|🇫🇮 Suomi|
-|23|Szymon 	Nowicz|19000140|🇵🇱 Poland| 
-  
+|23|Szymon Nowicz|19000140|🇵🇱 Poland|
+|24|Victor Tiberg|09990234|🇸🇪 Sweden|
+    
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
