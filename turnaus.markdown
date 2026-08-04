@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (25/60):   
-*(päivitetty 31.7. klo 17.30)*
+### Ilmoittautuneet / Registrees: (28/60):   
+*(päivitetty 5.8. klo 00.50)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -35,6 +35,9 @@ published: true
 |23|Szymon Nowicz|19000140|🇵🇱 Poland|
 |24|Victor Tiberg|09990234|🇸🇪 Sweden|
 |25|Touko	Nisula|94453739|🇫🇮 Suomi|
+|26|Henri	Mäkelä|14990104|🇫🇮 Suomi|
+|27|Elle Fellman| |🇫🇮 Suomi|
+|28|Joona Niku| |🇫🇮 Suomi|
     
 *In English below*  
   
