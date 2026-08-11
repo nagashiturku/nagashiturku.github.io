@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (28/60):   
-*(päivitetty 5.8. klo 00.50)*
+### Ilmoittautuneet / Registrees: (29/60):   
+*(päivitetty 11.8. klo 00.50)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -38,7 +38,8 @@ published: true
 |26|Henri	Mäkelä|14990104|🇫🇮 Suomi|
 |27|Elle Fellman| |🇫🇮 Suomi|
 |28|Joona Niku| |🇫🇮 Suomi|
-    
+|29|Ville Österlund| |  🇫🇮 Suomi|
+
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
