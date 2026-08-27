@@ -6,7 +6,7 @@ published: true
 ---
 
 ### Ilmoittautuneet / Registrees: (31/60):   
-*(päivitetty 11.8. klo 00.50)*
+*(päivitetty 27.8. klo 22.00)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
