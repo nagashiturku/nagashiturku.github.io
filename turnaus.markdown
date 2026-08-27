@@ -5,7 +5,7 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (29/60):   
+### Ilmoittautuneet / Registrees: (31/60):   
 *(päivitetty 11.8. klo 00.50)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
@@ -39,7 +39,9 @@ published: true
 |27|Elle Fellman| |🇫🇮 Suomi|
 |28|Joona Niku| |🇫🇮 Suomi|
 |29|Ville Österlund| |  🇫🇮 Suomi|
-
+|30|Yuwen	Pan||🇮🇪 Ireland|
+|31|Zhiyu	Zheng|26000016|🇮🇪 Ireland|
+  
 *In English below*  
   
 **Turun Riichi-mahjong seura Nagashi ry järjestää
