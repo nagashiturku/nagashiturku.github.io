@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (31/60):   
-*(päivitetty 27.8. klo 22.00)*
+### Ilmoittautuneet / Registrees: (34/60):   
+*(päivitetty 1.9. klo 23.05)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -41,6 +41,9 @@ published: true
 |29|Ville Österlund| |  🇫🇮 Suomi|
 |30|Yuwen	Pan||🇮🇪 Ireland|
 |31|Zhiyu	Zheng|26000016|🇮🇪 Ireland|
+|32|Shaswato Sarker |14990181|🇫🇮 Suomi|
+|33|Iivari van Uden|14990158|🇫🇮 Suomi|
+|34|Antti	Taivalsaari| 	14990122|🇫🇮 Suomi|
   
 *In English below*  
   
