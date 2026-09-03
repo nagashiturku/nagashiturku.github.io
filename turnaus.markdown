@@ -92,6 +92,7 @@ Paikan päällä on tarjolla myös kahvia ja pientä purtavaa.
   
 **Sunnuntai 25.10.**  
   **HUOM! Kelloja siirretään sunnuntaina aamuyöllä tunnilla taaksepäin.**
+  
 8.30 - 8.50 Ilmoittautuminen  
 9.00 - 10.30 5. hanchan  
 10.45 - 12.15 6. hanchan  
@@ -147,6 +148,7 @@ Coffee and snacks will be served at the venue.
   
 **Sunday 25.10.**  
   **NOTE! Due to daylight saving time, the clock is moved one hour behind on sunday.**
+  
 8.30 - 8.50 Check in  
 9.00 - 10.30 5. hanchan  
 10.45 - 12.15 6. hanchan  
