@@ -44,6 +44,7 @@ published: true
 |32|Shaswato Sarker |14990181|🇫🇮 Suomi|
 |33|Iivari van Uden|14990158|🇫🇮 Suomi|
 |34|Antti	Taivalsaari| 	14990122|🇫🇮 Suomi|
+|35|Kaludia Lensu|14990024|🇫🇮 Suomi|
   
 *In English below*  
   
