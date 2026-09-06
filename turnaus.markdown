@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (34/60):   
-*(päivitetty 1.9. klo 23.05)*
+### Ilmoittautuneet / Registrees: (35/60):   
+*(päivitetty 6.9. klo 21.20)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
