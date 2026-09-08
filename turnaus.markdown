@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (35/60):   
-*(päivitetty 6.9. klo 21.20)*
+### Ilmoittautuneet / Registrees: (36/60):   
+*(päivitetty 8.9. klo 23.15)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -44,7 +44,8 @@ published: true
 |32|Shaswato Sarker |14990181|🇫🇮 Suomi|
 |33|Iivari van Uden|14990158|🇫🇮 Suomi|
 |34|Antti	Taivalsaari| 	14990122|🇫🇮 Suomi|
-|35|Kaludia Lensu|14990024|🇫🇮 Suomi|
+|35|Klaudia Lensu|14990024|🇫🇮 Suomi|
+|36|Robin Nyman|14990174|🇫🇮 Suomi|
   
 *In English below*  
   
