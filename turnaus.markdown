@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (37/60):   
-*(päivitetty 12.9. klo 12.57)*
+### Ilmoittautuneet / Registrees: (40/60):   
+*(päivitetty 14.9. klo 22.25)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -47,6 +47,9 @@ published: true
 |35|Robin Nyman|14990174|🇫🇮 Suomi|
 |36|Tomeow Léo|04160183|🇫🇷 France|
 |37|Sheng-An Yu|09990183|🇸🇪 Sweden|
+|38|Niko Pänttönen||🇫🇮 Suomi|
+|39|Liu	Pitkänen||🇫🇮 Suomi|
+|40|Yu-Hsuan Hu||🇸🇪 Sweden|
   
 *In English below*  
   
