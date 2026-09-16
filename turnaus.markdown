@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (40/60):   
-*(päivitetty 14.9. klo 22.25)*
+### Ilmoittautuneet / Registrees: (41/60):   
+*(päivitetty 16.9. klo 20.30)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -50,6 +50,7 @@ published: true
 |38|Niko Pänttönen||🇫🇮 Suomi|
 |39|Liu	Pitkänen||🇫🇮 Suomi|
 |40|Yu-Hsuan Hu||🇸🇪 Sweden|
+|41|Jie	Hong|09990190|🇸🇪 Sweden|
   
 *In English below*  
   
