@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (41/60):   
-*(päivitetty 16.9. klo 20.30)*
+### Ilmoittautuneet / Registrees: (42/60):   
+*(päivitetty 16.9. klo 23.00)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -51,6 +51,7 @@ published: true
 |39|Liu	Pitkänen||🇫🇮 Suomi|
 |40|Yu-Hsuan Hu||🇸🇪 Sweden|
 |41|Jie	Hong|09990190|🇸🇪 Sweden|
+|42|Otto Valtonen||🇫🇮 Suomi|
   
 *In English below*  
   
