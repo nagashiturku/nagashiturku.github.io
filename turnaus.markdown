@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (42/60):   
-*(päivitetty 16.9. klo 23.00)*
+### Ilmoittautuneet / Registrees: (43/60):   
+*(päivitetty 17.9. klo 21.10)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -52,6 +52,7 @@ published: true
 |40|Yu-Hsuan Hu||🇸🇪 Sweden|
 |41|Jie	Hong|09990190|🇸🇪 Sweden|
 |42|Otto Valtonen||🇫🇮 Suomi|
+|43|Eetu Hyytiäinen||🇫🇮 Suomi|
   
 *In English below*  
   
