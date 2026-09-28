@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (43/60):   
-*(päivitetty 17.9. klo 21.10)*
+### Ilmoittautuneet / Registrees: (42/60):   
+*(päivitetty 28.9. klo 23.15)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -19,40 +19,39 @@ published: true
 | 7 | Jouni	Lehtinen  | 14990047 |🇫🇮 Suomi |
 | 8 | Teemu	Piippo  | |🇫🇮 Suomi |
 | 9 | Oskar	Lappi | 14990194 |🇫🇮 Suomi |
-| 10 | Aleksanteri	Kupi | 14990134 |🇫🇮 Suomi |
-| 11 | Miina	Viinikka  | 14990079 |🇫🇮 Suomi |
-|12| Johannes Natunen  | 14990162 |🇫🇮 Suomi |
-|13| Kukka	Korsu  | 14990083 |🇫🇮 Suomi |
-| 14|Anne-Mari Haapsamo  | 14990043 |🇫🇮 Suomi |
-| 15|Matias Tran  | 14990148 |🇫🇮 Suomi |
-| 16|Jesse	Vuontisjärvi | 14990175 |🇫🇮 Suomi |
-| 17|Joonas Helava  | 14990166 |🇫🇮 Suomi |
-| 18|Tiina-Kaisa	Nykänen  | 14990161 |🇫🇮 Suomi |
-| 19|Toni Kangasoja  | |🇫🇮 Suomi |
-| 20|Drew Mäkisalo  | 14990156 |🇫🇮 Suomi |
-|21|Joni Ilkka|14990120|🇫🇮 Suomi|
-|22|Szymon Nowicz|19000140|🇵🇱 Poland|
-|23|Victor Tiberg|09990234|🇸🇪 Sweden|
-|24|Touko	Nisula|94453739|🇫🇮 Suomi|
-|25|Henri	Mäkelä|14990104|🇫🇮 Suomi|
-|26|Elle Fellman| |🇫🇮 Suomi|
-|27|Joona Niku| |🇫🇮 Suomi|
-|28|Ville Österlund| |  🇫🇮 Suomi|
-|29|Yuwen	Pan|26000025|🇮🇪 Ireland|
-|30|Zhiyu	Zheng|26000016|🇮🇪 Ireland|
-|31|Shaswato Sarker |14990181|🇫🇮 Suomi|
-|32|Iivari van Uden|14990158|🇫🇮 Suomi|
-|33|Antti	Taivalsaari| 	14990122|🇫🇮 Suomi|
-|34|Klaudia Lensu|14990024|🇫🇮 Suomi|
-|35|Robin Nyman|14990174|🇫🇮 Suomi|
-|36|Tomeow Léo|04160183|🇫🇷 France|
-|37|Sheng-An Yu|09990183|🇸🇪 Sweden|
-|38|Niko Pänttönen||🇫🇮 Suomi|
-|39|Liu	Pitkänen||🇫🇮 Suomi|
-|40|Yu-Hsuan Hu||🇸🇪 Sweden|
-|41|Jie	Hong|09990190|🇸🇪 Sweden|
-|42|Otto Valtonen||🇫🇮 Suomi|
-|43|Eetu Hyytiäinen||🇫🇮 Suomi|
+| 10 | Miina	Viinikka  | 14990079 |🇫🇮 Suomi |
+|11| Johannes Natunen  | 14990162 |🇫🇮 Suomi |
+|12| Kukka	Korsu  | 14990083 |🇫🇮 Suomi |
+| 13|Anne-Mari Haapsamo  | 14990043 |🇫🇮 Suomi |
+| 14|Matias Tran  | 14990148 |🇫🇮 Suomi |
+| 15|Jesse	Vuontisjärvi | 14990175 |🇫🇮 Suomi |
+| 16|Joonas Helava  | 14990166 |🇫🇮 Suomi |
+| 17|Tiina-Kaisa	Nykänen  | 14990161 |🇫🇮 Suomi |
+| 18|Toni Kangasoja  | |🇫🇮 Suomi |
+| 19|Drew Mäkisalo  | 14990156 |🇫🇮 Suomi |
+|20|Joni Ilkka|14990120|🇫🇮 Suomi|
+|21|Szymon Nowicz|19000140|🇵🇱 Poland|
+|22|Victor Tiberg|09990234|🇸🇪 Sweden|
+|23|Touko	Nisula|94453739|🇫🇮 Suomi|
+|24|Henri	Mäkelä|14990104|🇫🇮 Suomi|
+|25|Elle Fellman| |🇫🇮 Suomi|
+|26|Joona Niku| |🇫🇮 Suomi|
+|27|Ville Österlund| |  🇫🇮 Suomi|
+|28|Yuwen	Pan|26000025|🇮🇪 Ireland|
+|29|Zhiyu	Zheng|26000016|🇮🇪 Ireland|
+|30|Shaswato Sarker |14990181|🇫🇮 Suomi|
+|31|Iivari van Uden|14990158|🇫🇮 Suomi|
+|32|Antti	Taivalsaari| 	14990122|🇫🇮 Suomi|
+|33|Klaudia Lensu|14990024|🇫🇮 Suomi|
+|34|Robin Nyman|14990174|🇫🇮 Suomi|
+|35|Tomeow Léo|04160183|🇫🇷 France|
+|36|Sheng-An Yu|09990183|🇸🇪 Sweden|
+|37|Niko Pänttönen||🇫🇮 Suomi|
+|38|Liu	Pitkänen||🇫🇮 Suomi|
+|39|Yu-Hsuan Hu||🇸🇪 Sweden|
+|40|Jie	Hong|09990190|🇸🇪 Sweden|
+|41|Otto Valtonen||🇫🇮 Suomi|
+|42|Eetu Hyytiäinen||🇫🇮 Suomi|
   
 *In English below*  
   
