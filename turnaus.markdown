@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (43/60):   
-*(päivitetty 1.10. klo 21.42)*
+### Ilmoittautuneet / Registrees: (44/60):   
+*(päivitetty 3.10. klo 02.15)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -53,6 +53,7 @@ published: true
 |41|Otto Valtonen||🇫🇮 Suomi|
 |42|Eetu Hyytiäinen||🇫🇮 Suomi|
 |43|Otto Petäjä||🇫🇮 Suomi|
+|44|Chengyu	Jiang|09990266|🇸🇪 Sweden|
   
 *In English below*  
   
