@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (44/60):   
-*(päivitetty 3.10. klo 02.15)*
+### Ilmoittautuneet / Registrees: (46/60):   
+*(päivitetty 4.10. klo 20.43)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -54,6 +54,8 @@ published: true
 |42|Eetu Hyytiäinen||🇫🇮 Suomi|
 |43|Otto Petäjä||🇫🇮 Suomi|
 |44|Chengyu	Jiang|09990266|🇸🇪 Sweden|
+|45|Zhaoyuan Wan|09990220|🇸🇪 Sweden|
+|46|Jasper Germeys|09990047|🇸🇪 Sweden|
   
 *In English below*  
   
