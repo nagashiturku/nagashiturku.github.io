@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (46/60):   
-*(päivitetty 4.10. klo 20.43)*
+### Ilmoittautuneet / Registrees: (47/60):   
+*(päivitetty 8.10. klo 22.03)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -56,6 +56,7 @@ published: true
 |44|Chengyu	Jiang|09990266|🇸🇪 Sweden|
 |45|Zhaoyuan Wan|09990220|🇸🇪 Sweden|
 |46|Jasper Germeys|09990047|🇸🇪 Sweden|
+|47|Lihan	Li||🇸🇪 Sweden|
   
 *In English below*  
   
