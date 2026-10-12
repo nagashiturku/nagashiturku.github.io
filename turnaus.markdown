@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (48/60):   
-*(päivitetty 12.10. klo 00.50)*
+### Ilmoittautuneet / Registrees: (49/60):   
+*(päivitetty 12.10. klo 23.25)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -57,7 +57,8 @@ published: true
 |45|Zhaoyuan Wan|09990220|🇸🇪 Sweden|
 |46|Jasper Germeys|09990047|🇸🇪 Sweden|
 |47|Lihan	Li||🇸🇪 Sweden|
-|48|Rurik Haapsamo|14990168|🇫🇮 Suomi
+|48|Rurik Haapsamo|14990168|🇫🇮 Suomi|
+|49|Ivan Shum|11000132|🇬🇧United Kingdom|
   
 *In English below*  
   
