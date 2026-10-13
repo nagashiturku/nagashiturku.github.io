@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (51/60):   
-*(päivitetty 13.10. klo 22.35)*
+### Ilmoittautuneet / Registrees: (52/60):   
+*(päivitetty 14.10. klo 02.15)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -61,6 +61,7 @@ published: true
 |49|Ivan Shum|11000132|🇬🇧United Kingdom|
 |50|Aleksi Vehmasaho||🇫🇮 Suomi|
 |51|Ella Junttari|14990112|🇫🇮 Suomi|
+|52|Akseli Pakarinen|14990176|🇫🇮 Suomi|
   
 *In English below*  
   
