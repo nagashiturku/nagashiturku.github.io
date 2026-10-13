@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (49/60):   
-*(päivitetty 12.10. klo 23.25)*
+### Ilmoittautuneet / Registrees: (51/60):   
+*(päivitetty 13.10. klo 22.35)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -59,6 +59,8 @@ published: true
 |47|Lihan	Li||🇸🇪 Sweden|
 |48|Rurik Haapsamo|14990168|🇫🇮 Suomi|
 |49|Ivan Shum|11000132|🇬🇧United Kingdom|
+|50|Aleksi Vehmasaho||🇫🇮 Suomi|
+|51|Ella Junttari|14990112|🇫🇮 Suomi|
   
 *In English below*  
   
