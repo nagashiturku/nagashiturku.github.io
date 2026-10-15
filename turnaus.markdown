@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (52/60):   
-*(päivitetty 14.10. klo 02.15)*
+### Ilmoittautuneet / Registrees: (53/60):   
+*(päivitetty 15.10. klo 22.10)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -58,10 +58,11 @@ published: true
 |46|Jasper Germeys|09990047|🇸🇪 Sweden|
 |47|Lihan	Li||🇸🇪 Sweden|
 |48|Rurik Haapsamo|14990168|🇫🇮 Suomi|
-|49|Ivan Shum|11000132|🇬🇧United Kingdom|
+|49|Ivan Shum|11000132|🇬🇧 United Kingdom|
 |50|Aleksi Vehmasaho||🇫🇮 Suomi|
 |51|Ella Junttari|14990112|🇫🇮 Suomi|
 |52|Akseli Pakarinen|14990176|🇫🇮 Suomi|
+|53|Lynxa Ilves|27000003|🇱🇻 Latvia|
   
 *In English below*  
   
