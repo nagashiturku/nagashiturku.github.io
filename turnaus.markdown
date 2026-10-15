@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (53/60):   
-*(päivitetty 15.10. klo 22.10)*
+### Ilmoittautuneet / Registrees: (54/60):   
+*(päivitetty 16.10. klo 01.02)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -63,6 +63,7 @@ published: true
 |51|Ella Junttari|14990112|🇫🇮 Suomi|
 |52|Akseli Pakarinen|14990176|🇫🇮 Suomi|
 |53|Lynxa Ilves|27000003|🇱🇻 Latvia|
+|54|Oļegs	Ošmjans|27000001|🇱🇻 Latvia|
   
 *In English below*  
   
