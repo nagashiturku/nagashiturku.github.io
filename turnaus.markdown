@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (54/60):   
-*(päivitetty 16.10. klo 01.02)*
+### Ilmoittautuneet / Registrees: (57/60):   
+*(päivitetty 17.10. klo 01.20)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -64,6 +64,8 @@ published: true
 |52|Akseli Pakarinen|14990176|🇫🇮 Suomi|
 |53|Lynxa Ilves|27000003|🇱🇻 Latvia|
 |54|Oļegs	Ošmjans|27000001|🇱🇻 Latvia|
+|56|András Ágoston||🇭🇺 Hungary|
+|57|Petteri	Huuskonen|14990050|🇫🇮 Suomi|
   
 *In English below*  
   
