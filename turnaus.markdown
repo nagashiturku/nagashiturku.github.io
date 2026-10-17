@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (59/60):   
-*(päivitetty 17.10. klo 17.20)*
+### Ilmoittautuneet / Registrees: (60/60):   
+*(päivitetty 17.10. klo 17.40)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -68,6 +68,7 @@ published: true
 |57|Petteri	Huuskonen|14990050|🇫🇮 Suomi|
 |58|Emil Westerholm||🇫🇮 Suomi|
 |59|Arsi Rasila||🇫🇮 Suomi|
+|60|Aaron Lounaja||🇫🇮 Suomi|
   
 *In English below*  
   
