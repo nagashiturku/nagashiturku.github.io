@@ -5,8 +5,8 @@ permalink: /turnaus/
 published: true
 ---
 
-### Ilmoittautuneet / Registrees: (57/60):   
-*(päivitetty 17.10. klo 01.20)*
+### Ilmoittautuneet / Registrees: (59/60):   
+*(päivitetty 17.10. klo 17.20)*
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -66,6 +66,8 @@ published: true
 |54|Oļegs	Ošmjans|27000001|🇱🇻 Latvia|
 |56|András Ágoston||🇭🇺 Hungary|
 |57|Petteri	Huuskonen|14990050|🇫🇮 Suomi|
+|58|Emil Westerholm||🇫🇮 Suomi|
+|59|Arsi Rasila||🇫🇮 Suomi|
   
 *In English below*  
   
