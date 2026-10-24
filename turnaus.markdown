@@ -104,15 +104,15 @@ Pelipaikan läheisyydessä on useampi kebab-pizzeria, sekä viiden minuutin käv
 Paikan päällä on tarjolla myös kahvia ja pientä purtavaa.   
 
 
-## Aikataulu
+## Päivitetty aikataulu
 **Lauantai 24.10.**  
   
 11.30 - 12.05 Ilmoittautuminen  
-12.15 - 13.45 1. hanchan  
-14.00 - 15.30 2. hanchan  
-15.30 - 16.45 tauko  
-16.45 - 18.15 3. hanchan  
-18.30 - 20.00 4. hanchan  
+12.45 - 14.15 1. hanchan  
+14.30 - 16.00 2. hanchan  
+16.00 - 17.15 tauko  
+17.15 - 18.45 3. hanchan  
+19.00 - 20.30 4. hanchan  
   
 **Sunnuntai 25.10.**  
   **HUOM! Kelloja siirretään sunnuntaina aamuyöllä tunnilla taaksepäin.**
@@ -160,15 +160,15 @@ Tournament venue is located near the center of Turku and the Kupittaa train stat
 There are multiple kebab-pizza restaurants where you can have lunch near the venue. There is also a convenience store K-Supermarket within a 5-minutes walk.  
 Coffee and snacks will be served at the venue.   
 
-## Schedule
+## Updated Schedule
 **Saturday 24.10.**  
   
 11.30 - 12.05 Check in  
-12.15 - 13.45 1. hanchan  
-14.00 - 15.30 2. hanchan  
-15.30 - 16.45 break  
-16.45 - 18.15 3. hanchan  
-18.30 - 20.00 4. hanchan  
+12.45 - 14.15 1. hanchan  
+14.30 - 16.00 2. hanchan  
+16.00 - 17.15 break  
+17.15 - 18.45 3. hanchan  
+19.00 - 20.30 4. hanchan  
   
 **Sunday 25.10.**  
   **NOTE! Due to daylight saving time, the clock is moved one hour behind on sunday.**
