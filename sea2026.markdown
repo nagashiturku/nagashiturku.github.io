@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Under the Sea 2026
-permalink: /turnaus/
+permalink: /sea26/
 published: true
 ---
 
