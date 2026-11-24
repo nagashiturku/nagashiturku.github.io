@@ -21,6 +21,7 @@ Turku-sali on päihteetön alue.
   
 Turnausmaksu on 15€ Nagashi ry:n jäsenille ja 20€ ei-jäsenille. Nagashin jäseneksi voi myös liittyä 3€:n hintaan, jolloin jäsenyyden ja turnausmaksun suuruus on siis yhteensä 18€. 
 Jäsenyys on voimassa vuoden 2027 loppuun saakka. Jäseneksi voi liittyä asuinpaikkakunnasta riippumatta.  
+  
 Turnausmaksun ja jäsenmaksun voit maksaa ainoastaan tilisiirtona Nagashin pankkitilille tai muuten etukäteen Nagashin muissa tapahtumissa.
 Tilisiirrolla maksetut turnausmaksut tulee olla suoritettuna 31.1.2027 mennessä. Muussa tapauksessa tilisiirrosta on pystyttävä näyttämään tosite paikan päällä.
   
