@@ -28,7 +28,7 @@ Tilisiirrolla maksetut turnausmaksut tulee olla suoritettuna 31.1.2027 mennessä
 ## Ilmoittautuminen
 Ilmoittautuminen on käynnissä ja päättyy 31.1.2027.  
 Paikkoja turnauksessa on yhteensä 32:lle pelaajalle.  
-Turnauksen ilmoittautumislomake: [tästä linkistä](https://forms.gle/X5xdgT3FYxPrhWRd8)
+Turnauksen ilmoittautumislomake: [tästä linkistä](https://forms.gle/X5xdgT3FYxPrhWRd8)  
 Nagashi ry jäsenlomake: [tästä linkistä](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing)
   
 **Maksutiedot:**  
