@@ -19,7 +19,7 @@ Uusimmat EMA-säännöt (1.1.2026) löydät [täältä](http://mahjong-europe.or
 Turnauksen ajankohta on 6.2. - 7.2.2027 ja paikkana [Turku-sali](https://www.google.com/maps/place/Turun+yliopiston+ylioppilaskunta+(TYY)/@60.4542084,22.2844857,17z/data=!3m1!4b1!4m6!3m5!1s0x468c76ef052923d1:0xcf557d9666133ac!8m2!3d60.4542058!4d22.2870606!16s%2Fg%2F1tk21kxy?entry=ttu), joka sijaitsee Turun yliopiston ylioppilaskunnan kanslian yläpuolella osoitteessa Rehtorinpellonkatu 4 A, 2. krs, 20500 Turku.
 Turku-sali on päihteetön alue.
   
-Turnausmaksu on 15€ Nagashi ry:n jäsenille ja 20€ ei-jäsenille. Nagashin jäseneksi voi myös liittyä 3€:n hintaan, jolloin jäsenyyden ja turnausmaksun suuruus on siis yhteensä 18€. 
+Turnausmaksu on 15€ Nagashi ry:n jäsenille ja 20€ ei-jäsenille. Nagashin jäseneksi voi myös liittyä 5€:n hintaan täyttämällä [jäsenlomakkeen](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing). 
 Jäsenyys on voimassa vuoden 2027 loppuun saakka. Jäseneksi voi liittyä asuinpaikkakunnasta riippumatta.  
   
 Turnausmaksun ja jäsenmaksun voit maksaa ainoastaan tilisiirtona Nagashin pankkitilille tai muuten etukäteen Nagashin muissa tapahtumissa.
@@ -78,7 +78,7 @@ You can find the latest EMA rules (January 1, 2026) [here](http://mahjong-europe
 The tournament will be held on the 6th and 7th of February. The tournament will take place in [Turku-sali](https://www.google.com/maps/place/Turun+yliopiston+ylioppilaskunta+(TYY)/@60.4542084,22.2844857,17z/data=!3m1!4b1!4m6!3m5!1s0x468c76ef052923d1:0xcf557d9666133ac!8m2!3d60.4542058!4d22.2870606!16s%2Fg%2F1tk21kxy?entry=ttu), which is located above the office of the student union of the University of Turku at Rehtorinpellonkatu 4 A, 2nd floor, 20500 Turku.
 The venue is non-alcoholic. 
 
-The tournament fee is €15 for Nagashi ry members and €20 for non-members. You can also become a member of Nagashi for €3, in which case the amount of membership + tournament fee is €18 in total. The membership is valid until the end of 2027. You can become a member regardless of your place of residence.
+The tournament fee is €15 for Nagashi ry members and €20 for non-members. You can also become a member of Nagashi for €5 by filling the [membership form](https://docs.google.com/forms/d/e/1FAIpQLSf4a6pGh08m8rDUGXLpO8rvnOBJIZ_kcWnOvn9dqImti2nCCA/viewform?usp=sharing). The membership is valid until the end of 2027. You can become a member regardless of your place of residence.
 The tournament and the membership fee can be only be paid beforehand by bank transfer or otherwise in some other Nagashi club event.
 Tournament fees paid by bank transfer must be completed by January 31st, 2027. Otherwise, you must be able to show a receipt for the bank transfer on the spot.
 ## Registration
