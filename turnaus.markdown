@@ -79,7 +79,7 @@ The tournament will be held on the 6th and 7th of February. The tournament will 
 The venue is non-alcoholic. 
 
 The tournament fee is €15 for Nagashi ry members and €20 for non-members. You can also become a member of Nagashi for €3, in which case the amount of membership + tournament fee is €18 in total. The membership is valid until the end of 2027. You can become a member regardless of your place of residence.
-The tournament and the membership fee can be paid by bank transfer or in cash or credit card at the beginning of the event.
+The tournament and the membership fee can be only be paid beforehand by bank transfer.
 Tournament fees paid by bank transfer must be completed by January 31st, 2027. Otherwise, you must be able to show a receipt for the bank transfer on the spot.
 ## Registration
 Registration is open and ends on January 31st.   
