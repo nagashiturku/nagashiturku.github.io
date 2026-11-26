@@ -8,7 +8,8 @@ published: true
 Ilmoittautuneet / Registrees: (0/32)   
 
   *in English below* 
-  **Turun Riichi-mahjong seura Nagashi ry järjestää
+  
+**Turun Riichi-mahjong seura Nagashi ry järjestää
 "Under the River 2027" -turnauksen 6.2. - 7.2. Turku-salissa**  
   
 Turnauksessa pelataan kahdeksan hanchania kahden päivän aikana. 
