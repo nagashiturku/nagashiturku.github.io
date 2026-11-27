@@ -47,8 +47,7 @@ Lauantai-iltaa voi viettää osallistujien kanssa ravintola Proffan Kellarissa. 
 ## Aikataulu
 **Lauantai 6.2.**  
   
-11.15 - 11.45 Ilmoittautuminen  
-11.45 - 12.05 Uudet säännöt -seminaari  
+11.30 - 12.05 Ilmoittautuminen  
 12.15 - 13.45 1. hanchan  
 14.00 - 15.30 2. hanchan  
 15.30 - 16.45 tauko  
