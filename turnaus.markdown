@@ -5,7 +5,7 @@ permalink: /turnaus/
 published: true
 ---
 
-Ilmoittautuneet / Registrees: (6/32) *päivitetty: 28.11. klo 02.15*  
+Ilmoittautuneet / Registrees: (7/32) *päivitetty: 28.11. klo 02.25*  
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
@@ -15,6 +15,7 @@ Ilmoittautuneet / Registrees: (6/32) *päivitetty: 28.11. klo 02.15*
 |4|Eetu Hyytiäinen||🇫🇮 Suomi|
 |5|Joni Ilkka|14990120|🇫🇮 Suomi|
 |6|Kait Tomson||🇫🇮 Suomi|
+|7|Eero Pihkala|14990136|🇫🇮 Suomi|
 
   *in English below* 
   
