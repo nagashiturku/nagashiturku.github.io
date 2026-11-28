@@ -5,7 +5,7 @@ permalink: /turnaus/
 published: true
 ---
 
-Ilmoittautuneet / Registrees: (0/32)   
+Ilmoittautuneet / Registrees: (6/32) *päivitetty: 28.11. klo 02.15*  
   
 | # | Nimi / Name  | EMA ID | Maa / Country |
 |---|-------|-----|------------|
