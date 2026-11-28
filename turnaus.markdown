@@ -6,6 +6,15 @@ published: true
 ---
 
 Ilmoittautuneet / Registrees: (0/32)   
+  
+| # | Nimi / Name  | EMA ID | Maa / Country |
+|---|-------|-----|------------|
+|1|Teemu Paloniemi|14990146|🇫🇮 Suomi|
+|2|Tiina-Kaisa Nykänen|14990161|🇫🇮 Suomi|
+|3|Johannes Natunen|14990162|🇫🇮 Suomi|
+|4|Eetu Hyytiäinen||🇫🇮 Suomi|
+|5|Joni Ilkka|14990120|🇫🇮 Suomi|
+|6|Kait Tomson||🇫🇮 Suomi|
 
   *in English below* 
   
